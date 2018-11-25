@@ -1,0 +1,5 @@
+Guten Tag, Frau Stumpp! Sie haben mich gerade als Negativbeispiel fuer schlechte Ausbildung genannt usw. usf. Ich moechte ganz kurz darauf eingehen. Sie selber sind ja Ingenieurin. Wir reden ganz kurz ueber die Klimamodellierung, die ich eben erwaehnt habe. Man braucht dazu Mathematiker, Informatiker.
+- Ja, natuerlich. Das sind partielle Differenzialgleichungssysteme.
+- Ja, ein bisschen habe ich damit herumgespielt, natuerlich.
+Jetzt meine Frage, auch an Herrn Roespel: Ein Differenzialgleichungssystem hat das Problem der Robustheit. Wissen Sie als Ingenieurin, was das ist, und wissen Sie, was fuer Auswirkungen das auf die Klimamodellierung hat?
+Wir arbeiten hier mit einem Fundament auf Sand. Wir geben 50 Milliarden Euro aus. Wenn die Modelle zur Loesung dieses Problems nicht taugen, was passiert dann? Das ist meine zweite Frage an Sie.
