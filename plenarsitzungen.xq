@@ -63,12 +63,13 @@ let $do :=
             let $text :=
                 for $redePart in $rede//p[@klasse = "redner"][./redner/@id = $rednerId]
                 return
-                    $redePart/following-sibling::p[ not(./preceding-sibling::name[1] >> $redePart)   ]
+                    ($redePart/following-sibling::p[ not(./preceding-sibling::name[1] >> $redePart) ]
                     /string() !
                         (.  => replace("ä", "ae") => replace("ö", "oe")
                             => replace("ü", "ue") => replace("ß", "ss")
                             => replace("–", "-") => replace("&#160;", " ")
-                        )
+                        ),
+                      "")
             return
                 (xmldb:store($rede-collection, $title || ".xml", $rede),
                 xmldb:store-as-binary($rede-collection, $title || ".txt", string-join($text, "&#10;")))
