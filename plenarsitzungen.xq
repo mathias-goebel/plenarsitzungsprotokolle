@@ -70,9 +70,10 @@ let $do :=
                             => replace("–", "-") => replace("&#160;", " ")
                         ),
                       "")
+            let $theText := string-join($text, "&#10;") => replace("(\d) (\d)", "$1$2")
             return
                 (xmldb:store($rede-collection, $title || ".xml", $rede),
-                xmldb:store-as-binary($rede-collection, $title || ".txt", string-join($text, "&#10;")))
+                xmldb:store-as-binary($rede-collection, $title || ".txt", $theText))
 
 return
   string-join(("", $do, ""), "&#10;")
