@@ -73,7 +73,7 @@ let $do :=
                         return
                             ($p/string() => replace("ä", "a#e") => replace("ö", "o#e")
                             => replace("ü", "u#e") => replace("ß", "s#s")
-                            => replace("–", "-#-") => replace("&#160;", " "), "")
+                            => replace("–", "-#-") => replace("&#160;", " "))
 
             let $text := $ps
             let $theText := string-join($text, "&#10;") => replace("(\d) (\d\d\d)", "$1$2")
@@ -82,10 +82,8 @@ let $do :=
             let $filenameWhash := $title || "-" || $hash || ".txt"
             (: prevent overriding a resource :)
             let $txtfilename := if (xmldb:get-child-resources($rede-collection) =  $filenameWOhash)
-                                then
-                                    let $sysOut := util:log-system-out($rede-collection || "/" || $filenameWhash)
-                                    return $filenameWOhash
-                                else $filenameWhash
+                                then $filenameWhash
+                                else $filenameWOhash
 
             return
                 ($store1,
