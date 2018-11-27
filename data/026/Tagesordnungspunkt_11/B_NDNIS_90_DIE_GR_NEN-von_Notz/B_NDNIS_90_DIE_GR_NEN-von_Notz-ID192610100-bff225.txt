@@ -1,0 +1,23 @@
+Frau Präsidentin! Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Stuxnet 2010, die Snowden-Veröffentlichungen 2013, WannaCry 2017, der Angriff auf den Deutschen Bundestag oder, ganz frisch, der Regierungshack: Seit vielen Jahren diskutieren wir hier über IT-Sicherheit und die Integrität von Netzwerken und Geräten in unserer durchdigitalisierten Welt. Die Vorfälle verdichten sich immer stärker. Man kann nur konstatieren: Im Bereich der IT-Sicherheit brennt die Hütte lichterloh.
+
+Deutschland ist nach 13 Regierungsjahren der Union, nach drei Innenministern von CDU und CSU, digital unsicherer als jemals zuvor. Es ist zwingend, dass dieses Thema ein ganz zentrales Thema dieser Legislatur wird. Wenn wir nicht alles unternehmen, um unsere digitalen Infrastrukturen und unsere private Kommunikation bestmöglich zu schützen, dann sind die ganzen schönen IT-Gipfel, all die Sonntagsreden zur Digitalpolitik nicht das analoge Papier wert, auf dem sie stehen, meine Damen und Herren. Deswegen müssen wir etwas tun.
+
+– Vielen Dank. – Die Risiken sind groß. Deswegen brauchen wir so große Antworten. Diese vermisst man leider bei Ihnen, bei der GroKo, bis heute. Von dem neuen für die IT-Sicherheit und den Datenschutz zuständigen Minister gab es bisher kein öffentliches Wort zu den weitreichenden IT-Angriffen, zu möglichen Wahlmanipulationen und zu den aktuell beispiellosen Datenskandalen. Das ist im Jahr 2018 einfach zu wenig.
+
+Eine große Antwort hat das Bundesverfassungsgericht schon vor Jahren gegeben: das Recht auf Integrität und Vertraulichkeit informationstechnischer Systeme. Lange schon weisen führende Staatsrechtler darauf hin, dass dem Staat hier eine direkte Schutzverantwortung zukommt. Statt dieser Verantwortung nach zehn Jahren gerecht zu werden, ist die inkohärente Politik der Großen Koalition selbst zu einer Gefahr geworden: für die Sicherheit der Daten von Unternehmen und für die Vertraulichkeit der Kommunikation. Sie ist aber auch Gift für die Digitalwirtschaft. Denn wo Vertrauen erodiert, kann keine Wirtschaft wachsen.
+
+Nur drei Beispiele dafür: Es gibt erstens eine völlige Konfusion der Zuständigkeiten und Befugnisse der Sicherheitsbehörden in diesem Bereich – Beispiel ­ZITiS: eine Behörde ohne Rechtsgrundlage, mit der der Staat selbst zum Hacker verschlüsselter Kommunikation wird –, zweitens das bewusste Offenhalten und die Nutzung von IT-Sicherheitslücken, mit der eine massive Gefährdung der IT-Sicherheit für alle einhergeht, und drittens die anhaltende Zusammenarbeit deutscher Behörden mit obskuren IT-Sicherheitsfirmen, die ihre Software in alle Despotenhände dieser Welt liefern. – All das hat die Große Koalition direkt zu verantworten, und durch ihr Vorgehen entstehen gänzlich neue Gefährdungslagen, und die können wir uns schlicht nicht leisten, meine Damen und Herren.
+
+Wir müssen endlich weg vom cyberpolitischen Bullshit-­Bingo
+
+hin zu klaren Zuständigkeiten innerhalb der Bundesregierung und der Behörden, weg vom starren Festhalten an der Vorratsdatenspeicherung und anderen Massenüberwachungen und den damit verbundenen unkontrollierbaren Datenanhäufungen, weg von der Missachtung klarer rechtlicher Vorgaben, zum Beispiel zur Überprüfung von Quellcodes durch die Datenschutzbeauftragten, und weg von der Politik des digitalen Wettrüstens, die auch über verfassungsrechtlich hochumstrittene Hackbacks und einen neuen Cyberwar fantasiert.
+
+Stattdessen brauchen wir eine entschlossene wie besonnene, an realen Bedrohungslagen orientierte Politik, die auf effektiv geschützte digitale Infrastrukturen, auf innovative und zivile IT-Sicherheitslösungen und auf starke Institutionen zum Schutz der Verbraucherinnen und Verbraucher setzt. Wie eine solche Politik konkret aussehen kann, legen wir Ihnen heute noch einmal dar.
+
+Wir brauchen eine Offensive für eine durchgehende Ende-zu-Ende-Verschlüsselung bei allen IT-Großprojekten. Wir brauchen klare Zuständigkeiten in der Bundesregierung und ein neues IT-Sicherheitsgesetz, das nicht nur auf KRITIS abzielt, sondern proaktive Anreize für Unternehmen setzt, die in gute und innovative IT-Sicherheitslösungen investieren wollen.
+
+Außerdem brauchen wir klare Rechtsgrundlagen, zum Beispiel für die Zusammenarbeit im Cyber-Abwehrzen­trum, und wir brauchen eine Meldepflicht für Sicherheitslücken, ein unabhängiges BSI, neue Haftungsregelungen, mehr freie und offene Software und vieles, vieles mehr.
+
+Meine Damen und Herren, eine gute IT-Sicherheit ist die zentrale Bedingung für das Gelingen der Digitalisierung, die Schaffung von Vertrauen in die digitalen Angebote und den Erhalt von Freiheit und Frieden. Deswegen sage ich: Bedienen Sie sich bei unseren Vorschlägen! Machen Sie eine gute IT-Sicherheitspolitik!
+
+Herzlichen Dank.
