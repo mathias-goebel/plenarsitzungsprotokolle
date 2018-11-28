@@ -34,17 +34,6 @@ return
         local:get($url, $offset)//*:a/string(@href) ! ($baseUrl || .)
 };
 
-declare function local:title($thisRedner) {
-  let $thisRednerName := string( $thisRedner//name )
-  let $fraktion := $thisRedner//fraktion/replace(., "[^a-zA-Z0-9]", "_")
-  let $role := if(string($fraktion) != "") then $fraktion else ($thisRedner//rolle[1]/*)[1]/replace(., "[^a-zA-Z0-9]", "_")
-  let $title := $role || "-" || $thisRedner//nachname/replace(string(.), "[^a-zA-Z0-9]", "_")
-  return
-    $title
-};
-
-
-
 let $links := local:getDataUrls()
 let $collection := "/db/plenarsitzungen"
 let $restart := if (xmldb:collection-available($collection))
@@ -67,7 +56,10 @@ let $do :=
             let $redeId := string($rede/@id)
             let $thisRedner := ($rede/p[@klasse="redner"])[1]
             let $rednerId := string($thisRedner/redner/@id)
-            let $title := local:title($thisRedner)
+            let $thisRednerName := string( $thisRedner//name )
+            let $fraktion := $thisRedner//fraktion/replace(., "[^a-zA-Z0-9]", "_")
+            let $role := if(string($fraktion) != "") then $fraktion else ($thisRedner//rolle[1]/*)[1]/replace(., "[^a-zA-Z0-9]", "_")
+            let $title := $role || "-" || $thisRedner//nachname/replace(string(.), "[^a-zA-Z0-9]", "_")
             let $rede-collection := xmldb:create-collection($top-collection, $title)
             let $title := $title || "-" || $redeId
 
@@ -79,11 +71,11 @@ let $do :=
                         let $redner := $p/preceding::redner[1]/@id => string()
                         where $thisRednerNode eq $p/preceding::name[1]/string()
                         return
-                            ($p/string() => replace("ä", "a#e") => replace("ö", "o#e")
-                              => replace("ü", "u#e") => replace("ß", "s#s")
-                              => replace("–", "-#-") => replace("Ä", "A#e")
-                              => replace("Ö", "O#e") => replace("Ü", "U#e")
-                              => replace("&#160;", " "))
+                          ($p/string() => replace("ä", "a#e") => replace("ö", "o#e")
+                            => replace("ü", "u#e") => replace("ß", "s#s")
+                            => replace("–", "-#-") => replace("Ä", "A#e")
+                            => replace("Ö", "O#e") => replace("Ü", "U#e")
+                            => replace("&#160;", " "))
 
             let $text := $ps
             let $theText := string-join($text, "&#10;") => replace("(\d) (\d\d\d)", "$1$2")
@@ -95,14 +87,6 @@ let $do :=
                                 then $filenameWhash
                                 else $filenameWOhash
 
-            let $zwischenfragen :=
-              if(exists())
-              then
-                let $zwischenfragenCollection := xmldb:create-collection($top-collection, "zwischenfragen")
-                return
-                    for $redner in $doc($store1)//redner[@id != $rednerId]
-                    let $zTitle := local:title($redner/parent::p)
-              else ()
             return
                 ($store1,
                 xmldb:store-as-binary($rede-collection, $txtfilename, $theText))
