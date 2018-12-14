@@ -1,0 +1,40 @@
+<rede id="ID197003500">
+        <p klasse="redner">
+        <redner id="11001478">
+            <name>
+                <titel>Dr.</titel>
+                <vorname>Angela</vorname>
+                <nachname>Merkel</nachname>
+                <rolle>
+                    <rolle_lang>Bundeskanzlerin</rolle_lang>
+                    <rolle_kurz>Bundeskanzlerin</rolle_kurz>
+                </rolle>
+            </name>
+        </redner>Dr. Angela Merkel, Bundeskanzlerin:</p>
+        <p klasse="J_1">Ja, ja, ich habe mir das genau im Internet angesehen.</p>
+        <p klasse="redner">
+        <redner id="11004817">
+            <name>
+                <vorname>Fabio</vorname>
+                <nachname>De Masi</nachname>
+                <fraktion>DIE LINKE</fraktion>
+            </name>
+        </redner>Fabio De Masi (DIE LINKE):</p>
+        <p klasse="J_1">Ich zitiere Ihren Parteifreund Markus Söder. Er sagte am 21. Mai 2012 über die Finanztransaktionsteuer: Wenn das Vorhaben in der Euro-Zone nicht klappt, dann wäre ich für einen deutschen Alleingang. Deutschland besitzt in Europa eine Führungsfunktion. – Wollen Sie in Europa führen, oder verfahren Sie nach dem Motto von Konrad Adenauer „Was interessiert mich mein Geschwätz von gestern?“?</p>
+        <p klasse="redner">
+        <redner id="11001478">
+            <name>
+                <titel>Dr.</titel>
+                <vorname>Angela</vorname>
+                <nachname>Merkel</nachname>
+                <rolle>
+                    <rolle_lang>Bundeskanzlerin</rolle_lang>
+                    <rolle_kurz>Bundeskanzlerin</rolle_kurz>
+                </rolle>
+            </name>
+        </redner>Dr. Angela Merkel, Bundeskanzlerin:</p>
+        <p klasse="J_1">Sie haben nicht mich zitiert, sondern Herrn Söder.</p>
+        <kommentar>(Heiterkeit und Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD)</kommentar>
+        <name>Präsident Dr. Wolfgang Schäuble:</name>
+        <p klasse="J_1">Manuel Sarrazin, Fraktion Bündnis 90/Die Grünen, stellt die nächste Frage.</p>
+      </rede>
