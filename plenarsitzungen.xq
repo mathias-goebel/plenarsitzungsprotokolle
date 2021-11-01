@@ -2,36 +2,37 @@ xquery version "3.1";
 
 declare function local:get($url as xs:string, $offset as xs:integer)
 as element() {
-    let $url := ($url || $offset) => xs:anyURI(),
-        $persist := false(),
-        $request-headers := <headers>
-                <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14931"/>
-                <header name="Accept" value="*/*"/>
-                <header name="Accept-Language" value="en-US,en;q=0.5"/>
-                <header name="Referer" value="https://www.bundestag.de/service/opendata"/>
-                <header name="X-Requested-With" value="XMLHttpRequest"/>
-                <header name="DNT" value="1"/>
-                <header name="Connection" value="close"/>
-                <header name="Cookie" value="JSESSIONID=02F3424C15B7AB1E940918FA070B33E7.deliveryWorker; SERVERID=7b710496a8b88003f83ceb2525aef95f81af88f0"/>
-            </headers>
+    let $url := ($url || $offset) => xs:anyURI()
+    let $request :=
+        <hc:request href="{$url}" method="get">
+            <hc:header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14931"/>
+            <hc:header name="Accept" value="*/*"/>
+            <hc:header name="Accept-Language" value="en-US,en;q=0.5"/>
+            <hc:header name="Referer" value="https://www.bundestag.de/service/opendata"/>
+            <hc:header name="X-Requested-With" value="XMLHttpRequest"/>
+            <hc:header name="DNT" value="1"/>
+            <hc:header name="Connection" value="close"/>
+            <hc:header name="Cookie" value="JSESSIONID=02F3424C15B7AB1E940918FA070B33E7.deliveryWorker; SERVERID=7b710496a8b88003f83ceb2525aef95f81af88f0"/>
+        </hc:request>
     return
-        httpclient:get($url, $persist, $request-headers)
+(:        httpclient:get($url, $persist, $request-headers):)
+        hc:send-request($request)[2]/*
 };
 
 declare function local:getDataUrls()
 as xs:string+{
     let $baseUrl := "https://www.bundestag.de"
-    let $url := $baseUrl || "/ajax/filterlist/de/service/opendata/-/543410/?offset="
+    let $url := $baseUrl || "/ajax/filterlist/de/services/opendata/866354-866354/?offset="
     let $init := local:get($url, 0)
     let $hits := $init//@data-hits => number()
     let $listSize := 5
     let $iterations := ($hits div $listSize) => floor() => xs:integer()
 
 return
-    for $i in 0 to $iterations - 1
+    for $i in 0 to $iterations + 1
     let $offset := $i * $listSize
     return
-        local:get($url, $offset)//*:a/string(@href) ! ($baseUrl || .)
+        local:get($url, $offset)//*:a/string(@href) ! ($baseUrl || .)[. != $baseUrl]
 };
 
 let $links := local:getDataUrls()
@@ -48,7 +49,9 @@ let $do :=
     let $store := xmldb:store($sitzungs-collection, $sitzung || ".xml", $doc)
     return
         for $top in $doc//tagesordnungspunkt
-        let $id := replace(string($top/@top-id), "\W", "_")
+        let $id :=  replace(string($top/@top-id), "\W", "_")
+                    => replace("[^a-zA-Z0-9]", "_")
+
         let $top-collection := xmldb:create-collection($sitzungs-collection, $id)
         let $store := xmldb:store($top-collection, $id || ".xml", $top)
         return
@@ -89,7 +92,7 @@ let $do :=
 
             return
                 ($store1,
-                xmldb:store-as-binary($rede-collection, $txtfilename, $theText))
+                xmldb:store-as-binary($rede-collection, replace($txtfilename, '^\-\-', 'TITLE-'), $theText))
 
 return
   string-join(("", $do, ""), "&#10;")
