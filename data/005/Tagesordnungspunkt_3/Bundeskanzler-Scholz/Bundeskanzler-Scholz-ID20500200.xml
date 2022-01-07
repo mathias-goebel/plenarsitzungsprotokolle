@@ -1,0 +1,14 @@
+<rede id="ID20500200">
+				<p klasse="redner">
+					<redner id="11003231">
+						<name>
+							<vorname>Olaf</vorname>
+							<nachname>Scholz</nachname>
+							<rolle>
+								<rolle_lang>Bundeskanzler</rolle_lang>
+								<rolle_kurz>Bundeskanzler</rolle_kurz>
+							</rolle>
+						</name>
+					</redner>Olaf Scholz, Bundeskanzler:</p>
+				<p klasse="J_1">Ich schwöre, dass ich meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde.</p>
+			</rede>
