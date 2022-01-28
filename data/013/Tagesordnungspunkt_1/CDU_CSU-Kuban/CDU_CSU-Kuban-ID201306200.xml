@@ -1,0 +1,33 @@
+<rede id="ID201306200">
+				<p klasse="redner">
+					<redner id="11005118">
+						<name>
+							<vorname>Tilman</vorname>
+							<nachname>Kuban</nachname>
+							<fraktion>CDU/CSU</fraktion>
+						</name>
+					</redner>Tilman Kuban (CDU/CSU):</p>
+				<p klasse="J_1">Nur eine sehr kurze Nachfrage: Welchen Finanzierungsbedarf sehen Sie, wenn man die Stromsteuer oder die Mehrwertsteuer um gewisse Punkte senken würde?</p>
+				<p klasse="redner">
+					<redner id="11005074">
+						<name>
+							<titel>Dr.</titel>
+							<vorname>Robert</vorname>
+							<nachname>Habeck</nachname>
+							<rolle>
+								<rolle_lang>Bundesminister für Wirtschaft und Klimaschutz</rolle_lang>
+								<rolle_kurz>Bundesminister BMWK</rolle_kurz>
+							</rolle>
+						</name>
+					</redner>Dr. Robert Habeck, Bundesminister für Wirtschaft und Klimaschutz:</p>
+				<p klasse="J_1">Sie meinen den Haushaltsbedarf?</p>
+				<p klasse="redner">
+					<redner id="11005118">
+						<name>
+							<vorname>Tilman</vorname>
+							<nachname>Kuban</nachname>
+							<fraktion>CDU/CSU</fraktion>
+						</name>
+					</redner>Tilman Kuban (CDU/CSU):</p>
+				<p klasse="J_1">Ja.</p>
+			</rede>
