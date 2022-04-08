@@ -1,0 +1,26 @@
+<rede id="ID202702300">
+				<p klasse="redner">
+					<redner id="11003231">
+						<name>
+							<vorname>Olaf</vorname>
+							<nachname>Scholz</nachname>
+							<rolle>
+								<rolle_lang>Bundeskanzler</rolle_lang>
+								<rolle_kurz>Bundeskanzler</rolle_kurz>
+							</rolle>
+						</name>
+					</redner>Olaf Scholz, Bundeskanzler:</p>
+				<p klasse="J_1">Wir sind die Regierung, die diese Entscheidung getroffen hat. Und die Entscheidung ist richtig.</p>
+				<kommentar>(Beifall bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+				<p klasse="redner">
+					<redner id="11004048">
+						<name>
+							<vorname>Florian</vorname>
+							<nachname>Hahn</nachname>
+							<fraktion>CDU/CSU</fraktion>
+						</name>
+					</redner>Florian Hahn (CDU/CSU):</p>
+				<p klasse="J_1">Also, die Vorgängerregierung hat das auch gemacht.</p>
+				<name>Präsidentin Bärbel Bas:</name>
+				<p klasse="J_1">Herr Hahn, Sie können nachfragen.</p>
+			</rede>
