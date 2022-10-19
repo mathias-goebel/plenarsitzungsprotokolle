@@ -1,47 +1,31 @@
 <rede id="ID206009700">
-                <p klasse="redner">
-        <redner id="11005184">
-            <name>
-                <vorname>Henning</vorname>
-                <nachname>Rehbaum</nachname>
-                <fraktion>CDU/CSU</fraktion>
-            </name>
-        </redner>Henning Rehbaum
-                    (CDU/CSU):</p>
-                <p klasse="J_1">Frau Präsidentin! Sehr geehrte Kolleginnen und Kollegen! Die Vorredner haben interessante Thesen aufgestellt. Ich möchte Herrn Seidler an der Stelle
-                    recht geben: Wir brauchen mehr Geld für Schiene und für Wasserstraßen, nur steht das leider im Haushalt der Ampel aktuell nicht drin. – Und, Herr Schiefner,
-                    eine Problemanalyse ist immer da. Sie erzählen uns auch viel von dem, was im Koalitionsvertrag steht. Das ist ganz nett, aber hilft den Spediteuren überhaupt
-                    nicht. 25 Prozent Ihrer Regierungszeit sind bereits vorbei. Fangen Sie endlich an!</p>
-                <kommentar>(Beifall bei der CDU/CSU)</kommentar>
-                <p klasse="J">Das zentrale Problem ist der Fahrermangel. Mehr als 60 000 Berufskraftfahrer fehlen schon jetzt. 35 Prozent gehen in den nächsten Jahren in Rente. Die
-                    Ampel ist hier viel zu zögerlich. Wenn das so weitergeht, dann haben wir englische Verhältnisse und leere Regale.</p>
-                <p klasse="J">Die Branche hat die Ausbildungsstandards für Lkw-Fahrer selbst hochgefahren, um den Fahrerberuf und die Sicherheitsstandards aufzuwerten; das ist
-                    aller Ehren wert. Das fällt uns jetzt allerdings ein Stück weit auf die Füße; denn durch Demografie, Corona und die Ukrainekrise fehlen Fahrer nicht nur in
-                    Deutschland; das ist ein europaweites Phänomen. Hinzu kommt: In Deutschland kostet der Führerschein ungefähr 10 000 Euro und dauert ein halbes Jahr.</p>
-                <kommentar>(Detlef Müller [Chemnitz] [SPD]: Das fällt Ihnen jetzt auf? Jetzt?)</kommentar>
-                <p klasse="O">Eine Lösung ist, die Standards bei der Fahrerausbildung nach dem Vorbild Österreichs auf ein europäisches Normalmaß zurückzufahren und eine bessere
-                    Anerkennung ausländischer Führerscheine. Türkische, albanische oder serbische Lkw-Fahrer fahren ihr ganzes Leben lang in Europa. Da muss man sich bei der
-                    Anerkennung der Führerscheine kein Loch ins Knie bohren.</p>
-                <p klasse="J">Ein echtes Ärgernis ist das Auswärtige Amt, das seit 56 Jahren von FDP, SPD oder Grünen geführt wird. Die Visaverfahren sind viel zu schleppend.</p>
-                <kommentar>(Beifall bei Abgeordneten der CDU/CSU)</kommentar>
-                <p klasse="O">Wenn man in Drittstaaten für eine deutsche Firma einen Lkw fahren möchte, dann wartet man sechs Monate auf einen Termin im Konsulat. Das ist
-                    inakzeptabel.</p>
-                <kommentar>(Beifall bei der CDU/CSU)</kommentar>
-                <p klasse="O">Den Bürgern im Wahlkampf großspurig Fachkräftezuwanderung versprechen, das kann man. Außenministerin Baerbock und ebenso ihr Vorgänger Heiko Maas von
-                    der SPD schaffen es aber nicht, für genügend Personal in den Konsulaten zu sorgen und Visaprozesse endlich zu beschleunigen. Ministerin Baerbock, stocken Sie
-                    das Personal in den Konsulaten auf, damit Lkw-Fahrer schnell einen Termin und zügig ein Visum bekommen!</p>
-                <kommentar>(Beifall bei der CDU/CSU)</kommentar>
-                <p klasse="J">Eine Maßnahme, die kein Geld kostet, möchte ich noch kurz vorstellen. Seit Jahren führen SPD, Grüne und deren befreundete Vorfeldorganisationen einen
-                    ideologischen Kampf gegen den Lkw:</p>
-                <kommentar>(Zurufe von der SPD und dem BÜNDNIS 90/DIE GRÜNEN: Oh!)</kommentar>
-                <p klasse="O">Klimakiller Lkw! Lkws raus aus unseren Städten! – Lkw-Fahrer berichten mir von Anfeindungen und verächtlichen Gesten von Passanten, wenn sie durch
-                    Dörfer und Städte fahren. Kolleginnen und Kollegen, liebe Gäste auf der Tribüne, das kommt dabei heraus, wenn man jahrelang Stimmung gegen den Lkw macht. Das
-                    führt dazu, dass niemand mehr Fernfahrer werden will.</p>
-                <kommentar>(Beifall bei der CDU/CSU)</kommentar>
-                <p klasse="J">Wir in der Politik haben große Verantwortung – ich komme zum Schluss –: Sprechen wir ab sofort gut über den Lkw! Sprechen wir gut über den Beruf des
-                    Fernfahrers! Geben wir den Menschen, die tagtäglich weit weg von zu Hause für unseren Wohlstand auf Achse sind, ihre Würde zurück! Sie haben es verdient.</p>
-                <kommentar>(Beifall bei der CDU/CSU – Dorothee Martin [SPD]: Ihr habt die Opposition echt verdient! Mit jedem einzelnen Wort!)</kommentar>
-                <name>Vizepräsidentin Yvonne Magwas:</name>
-                <p klasse="J_1">Die letzte Rednerin in der Debatte ist Anja Troff-Schaffarzyk für die SPD-Fraktion.</p>
-                <kommentar>(Beifall bei der SPD)</kommentar>
-            </rede>
+				<p klasse="redner">
+					<redner id="11005184">
+						<name>
+							<vorname>Henning</vorname>
+							<nachname>Rehbaum</nachname>
+							<fraktion>CDU/CSU</fraktion>
+						</name>
+					</redner>Henning Rehbaum (CDU/CSU):</p>
+				<p klasse="J_1">Frau Präsidentin! Sehr geehrte Kolleginnen und Kollegen! Die Vorredner haben interessante Thesen aufgestellt. Ich möchte Herrn Seidler an der Stelle recht geben: Wir brauchen mehr Geld für Schiene und für Wasserstraßen, nur steht das leider im Haushalt der Ampel aktuell nicht drin. – Und, Herr Schiefner, eine Problemanalyse ist immer da. Sie erzählen uns auch viel von dem, was im Koalitionsvertrag steht. Das ist ganz nett, aber hilft den Spediteuren überhaupt nicht. 25 Prozent Ihrer Regierungszeit sind bereits vorbei. Fangen Sie endlich an!</p>
+				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
+				<p klasse="J">Das zentrale Problem ist der Fahrermangel. Mehr als 60 000 Berufskraftfahrer fehlen schon jetzt. 35 Prozent gehen in den nächsten Jahren in Rente. Die Ampel ist hier viel zu zögerlich. Wenn das so weitergeht, dann haben wir englische Verhältnisse und leere Regale.</p>
+				<p klasse="J">Die Branche hat die Ausbildungsstandards für Lkw-Fahrer selbst hochgefahren, um den Fahrerberuf und die Sicherheitsstandards aufzuwerten; das ist aller Ehren wert. Das fällt uns jetzt allerdings ein Stück weit auf die Füße; denn durch Demografie, Corona und die Ukrainekrise fehlen Fahrer nicht nur in Deutschland; das ist ein europaweites Phänomen. Hinzu kommt: In Deutschland kostet der Führerschein ungefähr 10 000 Euro und dauert ein halbes Jahr.</p>
+				<kommentar>(Detlef Müller [Chemnitz] [SPD]: Das fällt Ihnen jetzt auf? Jetzt?)</kommentar>
+				<p klasse="O">Eine Lösung ist, die Standards bei der Fahrerausbildung nach dem Vorbild Österreichs auf ein europäisches Normalmaß zurückzufahren und eine bessere Anerkennung ausländischer Führerscheine. Türkische, albanische oder serbische Lkw-Fahrer fahren ihr ganzes Leben lang in Europa. Da muss man sich bei der Anerkennung der Führerscheine kein Loch ins Knie bohren.</p>
+				<p klasse="J">Ein echtes Ärgernis ist das Auswärtige Amt, das seit 56 Jahren von FDP, SPD oder Grünen geführt wird. Die Visaverfahren sind viel zu schleppend.</p>
+				<kommentar>(Beifall bei Abgeordneten der CDU/CSU)</kommentar>
+				<p klasse="O">Wenn man in Drittstaaten für eine deutsche Firma einen Lkw fahren möchte, dann wartet man sechs Monate auf einen Termin im Konsulat. Das ist inakzeptabel.</p>
+				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
+				<p klasse="O">Den Bürgern im Wahlkampf großspurig Fachkräftezuwanderung versprechen, das kann man. Außenministerin Baerbock und ebenso ihr Vorgänger Heiko Maas von der SPD schaffen es aber nicht, für genügend Personal in den Konsulaten zu sorgen und Visaprozesse endlich zu beschleunigen. Ministerin Baerbock, stocken Sie das Personal in den Konsulaten auf, damit Lkw-Fahrer schnell einen Termin und zügig ein Visum bekommen!</p>
+				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
+				<p klasse="J">Eine Maßnahme, die kein Geld kostet, möchte ich noch kurz vorstellen. Seit Jahren führen SPD, Grüne und deren befreundete Vorfeldorganisationen einen ideologischen Kampf gegen den Lkw:</p>
+				<kommentar>(Zurufe von der SPD und dem BÜNDNIS 90/DIE GRÜNEN: Oh!)</kommentar>
+				<p klasse="O">Klimakiller Lkw! Lkws raus aus unseren Städten! – Lkw-Fahrer berichten mir von Anfeindungen und verächtlichen Gesten von Passanten, wenn sie durch Dörfer und Städte fahren. Kolleginnen und Kollegen, liebe Gäste auf der Tribüne, das kommt dabei heraus, wenn man jahrelang Stimmung gegen den Lkw macht. Das führt dazu, dass niemand mehr Fernfahrer werden will.</p>
+				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
+				<p klasse="J">Wir in der Politik haben große Verantwortung – ich komme zum Schluss –: Sprechen wir ab sofort gut über den Lkw! Sprechen wir gut über den Beruf des Fernfahrers! Geben wir den Menschen, die tagtäglich weit weg von zu Hause für unseren Wohlstand auf Achse sind, ihre Würde zurück! Sie haben es verdient.</p>
+				<kommentar>(Beifall bei der CDU/CSU – Dorothee Martin [SPD]: Ihr habt die Opposition echt verdient! Mit jedem einzelnen Wort!)</kommentar>
+				<name>Vizepräsidentin Yvonne Magwas:</name>
+				<p klasse="J_1">Die letzte Rednerin in der Debatte ist Anja Troff-Schaffarzyk für die SPD-Fraktion.</p>
+				<kommentar>(Beifall bei der SPD)</kommentar>
+			</rede>
