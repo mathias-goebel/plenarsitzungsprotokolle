@@ -1,37 +1,22 @@
 <rede id="ID206301000">
-                <p klasse="redner">
-        <redner id="11004798">
-            <name>
-                <vorname>Alexander</vorname>
-                <nachname>Graf Lambsdorff</nachname>
-                <fraktion>FDP</fraktion>
-            </name>
-        </redner>Alexander
-                    Graf Lambsdorff (FDP):</p>
-                <p klasse="J_1">Frau Präsidentin! Meine Damen und Herren! Der grausame Krieg Russlands in der Ukraine nimmt auf unserem Kontinent unterschiedliche
-                    Erscheinungsformen an. Wir wissen, dass Russland gegen uns einen Energiekrieg führt. In der großen Analyse der vier deutschen Übertragungsnetzbetreiber heißt
-                    es, die Situation im deutschen Stromnetz werde im kommenden Winter äußerst angespannt sein. Aldi hat gestern angekündigt, seine Öffnungszeiten aus
-                    Energiekostengründen zu verkürzen. Ingenieure von Stromnetzbetreibern sind derzeit dabei, zu prüfen, ob Kunden in Süddeutschland zeitweise vom Netz zu nehmen
-                    sind, weil es dort nicht gelingt, die Versorgung mit Strom aus den Windparks im Norden sicherzustellen.</p>
-                <p klasse="J">Das will ich hier deutlich sagen, meine Damen und Herren: Bei aller Offenheit für Debatten, die der Bundeskanzler eben angesprochen hat, brauchen wir
-                    einen Beitrag nicht, und das sind Tipps der CSU für die Energieversorgung in unserem Land.</p>
-                <kommentar>(Beifall bei der FDP und der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
-                <p klasse="O">Gerade der Freistaat Bayern ist der Problembär unter den Bundesländern, wenn es darum geht, die Energieversorgung zu sichern.</p>
-                <p klasse="J">Die gute Nachricht in diesem Zusammenhang ist, dass die drei Kernkraftwerke, die noch laufen, jetzt am Netz bleiben; das hat der Bundeskanzler in
-                    dieser Woche verkündet. Diese Nachricht, meine Damen und Herren, freut auch unsere europäischen Partner; denn wir sind in der Europäischen Union nicht nur aus
-                    politischen Gründen zu unserem Glück vereint. Wir sind auch durch Pipelines, Kabel und Interkonnektoren miteinander verbunden und vernetzt. Wir haben profitiert
-                    von den Flüssiggasterminals und den Pipelinekapazitäten in Holland, Belgien und Skandinavien. Sie haben dafür gesorgt, dass unsere Gasspeicher gefüllt werden
-                    konnten. Wir helfen den Franzosen mit Stromlieferungen aus Deutschland, wenn bei ihnen die Kernkraftwerke teilweise ausfallen. Jetzt kriegen wir Gas aus
-                    Frankreich.</p>
-                <p klasse="J">Meine Damen und Herren, wenn bei uns ein Netzengpass auftritt, wenn bei uns Strommangel auftritt, dann hat das unmittelbare Folgen für unsere Nachbarn
-                    in der Europäischen Union. Deswegen muss der Weiterbetrieb der deutschen Kernkraftwerke auch als eine symbolische Geste gesehen werden. Er verhindert nämlich
-                    die Erzählung von einem Deutschland, das einerseits die Hilfe seiner Partner in Anspruch nimmt, aber andererseits nicht dazu bereit ist, seine eigenen
-                    Befindlichkeiten bei der Energieversorgung zurückzustellen.</p>
-                <p klasse="J">Deutschland muss seine Energieerzeugungskapazitäten jetzt ausschöpfen – im eigenen Interesse, dem aller unserer Nachbarn und der ganzen Europäischen
-                    Union. Bleiben wir also, meine Damen und Herren, zu unserem Glück vereint. Ich hoffe, das ist das Signal, das von diesem Europäischen Rat ausgeht.</p>
-                <p klasse="J">Herzlichen Dank.</p>
-                <kommentar>(Beifall bei der FDP sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN – Zuruf der Abg. Dr. Anja Weisgerber [CDU/CSU])</kommentar>
-                <name>Präsidentin Bärbel Bas:</name>
-                <p klasse="J_1">Nächster Redner: für die SPD-Fraktion Dr. Matthias Miersch.</p>
-                <kommentar>(Beifall bei der SPD)</kommentar>
-            </rede>
+				<p klasse="redner">
+					<redner id="11004798">
+						<name>
+							<vorname>Alexander</vorname>
+							<nachname>Graf Lambsdorff</nachname>
+							<fraktion>FDP</fraktion>
+						</name>
+					</redner>Alexander Graf Lambsdorff (FDP):</p>
+				<p klasse="J_1">Frau Präsidentin! Meine Damen und Herren! Der grausame Krieg Russlands in der Ukraine nimmt auf unserem Kontinent unterschiedliche Erscheinungsformen an. Wir wissen, dass Russland gegen uns einen Energiekrieg führt. In der großen Analyse der vier deutschen Übertragungsnetzbetreiber heißt es, die Situation im deutschen Stromnetz werde im kommenden Winter äußerst angespannt sein. Aldi hat gestern angekündigt, seine Öffnungszeiten aus Energiekostengründen zu verkürzen. Ingenieure von Stromnetzbetreibern sind derzeit dabei, zu prüfen, ob Kunden in Süddeutschland zeitweise vom Netz zu nehmen sind, weil es dort nicht gelingt, die Versorgung mit Strom aus den Windparks im Norden sicherzustellen.</p>
+				<p klasse="J">Das will ich hier deutlich sagen, meine Damen und Herren: Bei aller Offenheit für Debatten, die der Bundeskanzler eben angesprochen hat, brauchen wir einen Beitrag nicht, und das sind Tipps der CSU für die Energieversorgung in unserem Land.</p>
+				<kommentar>(Beifall bei der FDP und der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+				<p klasse="O">Gerade der Freistaat Bayern ist der Problembär unter den Bundesländern, wenn es darum geht, die Energieversorgung zu sichern.</p>
+				<p klasse="J">Die gute Nachricht in diesem Zusammenhang ist, dass die drei Kernkraftwerke, die noch laufen, jetzt am Netz bleiben; das hat der Bundeskanzler in dieser Woche verkündet. Diese Nachricht, meine Damen und Herren, freut auch unsere europäischen Partner; denn wir sind in der Europäischen Union nicht nur aus politischen Gründen zu unserem Glück vereint. Wir sind auch durch Pipelines, Kabel und Interkonnektoren miteinander verbunden und vernetzt. Wir haben profitiert von den Flüssiggasterminals und den Pipelinekapazitäten in Holland, Belgien und Skandinavien. Sie haben dafür gesorgt, dass unsere Gasspeicher gefüllt werden konnten. Wir helfen den Franzosen mit Stromlieferungen aus Deutschland, wenn bei ihnen die Kernkraftwerke teilweise ausfallen. Jetzt kriegen wir Gas aus Frankreich.</p>
+				<p klasse="J">Meine Damen und Herren, wenn bei uns ein Netzengpass auftritt, wenn bei uns Strommangel auftritt, dann hat das unmittelbare Folgen für unsere Nachbarn in der Europäischen Union. Deswegen muss der Weiterbetrieb der deutschen Kernkraftwerke auch als eine symbolische Geste gesehen werden. Er verhindert nämlich die Erzählung von einem Deutschland, das einerseits die Hilfe seiner Partner in Anspruch nimmt, aber andererseits nicht dazu bereit ist, seine eigenen Befindlichkeiten bei der Energieversorgung zurückzustellen.</p>
+				<p klasse="J">Deutschland muss seine Energieerzeugungskapazitäten jetzt ausschöpfen – im eigenen Interesse, dem aller unserer Nachbarn und der ganzen Europäischen Union. Bleiben wir also, meine Damen und Herren, zu unserem Glück vereint. Ich hoffe, das ist das Signal, das von diesem Europäischen Rat ausgeht.</p>
+				<p klasse="J">Herzlichen Dank.</p>
+				<kommentar>(Beifall bei der FDP sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN – Zuruf der Abg. Dr. Anja Weisgerber [CDU/CSU])</kommentar>
+				<name>Präsidentin Bärbel Bas:</name>
+				<p klasse="J_1">Nächster Redner: für die SPD-Fraktion Dr. Matthias Miersch.</p>
+				<kommentar>(Beifall bei der SPD)</kommentar>
+			</rede>

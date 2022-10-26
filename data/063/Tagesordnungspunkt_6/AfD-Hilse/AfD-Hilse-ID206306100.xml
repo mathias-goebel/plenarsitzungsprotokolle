@@ -1,21 +1,19 @@
 <rede id="ID206306100">
-                <p klasse="redner">
-        <redner id="11004752">
-            <name>
-                <vorname>Karsten</vorname>
-                <nachname>Hilse</nachname>
-                <fraktion>AfD</fraktion>
-            </name>
-        </redner>Karsten Hilse (AfD):</p>
-                <p klasse="J_1">Vielen Dank, Herr Präsident, dass Sie die Kurzintervention zulassen. – Also, die Rede strotzte ja vor Blödsinn,</p>
-                <kommentar>(Zurufe von der SPD: Hey, hey, hey!)</kommentar>
-                <p klasse="O">zum Beispiel, als gesagt wurde, dass es bei der Solarenergie keine Schwankungen gibt; aber ist ja egal. Also, da sind ein paar Sachen dabei gewesen,
-                    die Sie mit Ihrem Referenten vielleicht noch mal besprechen sollten.</p>
-                <p klasse="J">Meine Frage ist folgende: Sie sagten, Sie wollen sich unabhängig machen von Diktaturen, von nichtdemokratischen Staaten. Sie wissen wahrscheinlich,
-                    dass 95 Prozent der Solarpaneele für unsere Photovoltaikanlagen aus China kommen.</p>
-                <kommentar>(Timon Gremmels [SPD]: Können wir ja ändern!)</kommentar>
-                <p klasse="O">Die Frage ist jetzt, ob Sie China für einen durch und durch demokratischen Staat halten.</p>
-                <kommentar>(Timon Gremmels [SPD]: Die Antwort ist, hier zu produzieren!)</kommentar>
-                <name>Vizepräsident Wolfgang Kubicki:</name>
-                <p klasse="J_1">Herr Kollege, Sie können darauf antworten. Bitte.</p>
-            </rede>
+				<p klasse="redner">
+					<redner id="11004752">
+						<name>
+							<vorname>Karsten</vorname>
+							<nachname>Hilse</nachname>
+							<fraktion>AfD</fraktion>
+						</name>
+					</redner>Karsten Hilse (AfD):</p>
+				<p klasse="J_1">Vielen Dank, Herr Präsident, dass Sie die Kurzintervention zulassen. – Also, die Rede strotzte ja vor Blödsinn,</p>
+				<kommentar>(Zurufe von der SPD: Hey, hey, hey!)</kommentar>
+				<p klasse="O">zum Beispiel, als gesagt wurde, dass es bei der Solarenergie keine Schwankungen gibt; aber ist ja egal. Also, da sind ein paar Sachen dabei gewesen, die Sie mit Ihrem Referenten vielleicht noch mal besprechen sollten.</p>
+				<p klasse="J">Meine Frage ist folgende: Sie sagten, Sie wollen sich unabhängig machen von Diktaturen, von nichtdemokratischen Staaten. Sie wissen wahrscheinlich, dass 95 Prozent der Solarpaneele für unsere Photovoltaikanlagen aus China kommen.</p>
+				<kommentar>(Timon Gremmels [SPD]: Können wir ja ändern!)</kommentar>
+				<p klasse="O">Die Frage ist jetzt, ob Sie China für einen durch und durch demokratischen Staat halten.</p>
+				<kommentar>(Timon Gremmels [SPD]: Die Antwort ist, hier zu produzieren!)</kommentar>
+				<name>Vizepräsident Wolfgang Kubicki:</name>
+				<p klasse="J_1">Herr Kollege, Sie können darauf antworten. Bitte.</p>
+			</rede>

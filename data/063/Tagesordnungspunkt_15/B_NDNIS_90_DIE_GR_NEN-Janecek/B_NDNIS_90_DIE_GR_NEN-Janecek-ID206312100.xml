@@ -1,41 +1,28 @@
 <rede id="ID206312100">
-                <p klasse="redner">
-        <redner id="11004312">
-            <name>
-                <vorname>Dieter</vorname>
-                <nachname>Janecek</nachname>
-                <fraktion>BÜNDNIS 90/DIE GRÜNEN</fraktion>
-            </name>
-        </redner>Dieter
-                    Janecek (BÜNDNIS 90/DIE GRÜNEN):</p>
-                <p klasse="J_1">Sehr geehrter Herr Präsident! Herr Jacobi, vielleicht ist Ihnen in den Sinn gekommen, dass der Deutsche Notarverein auch deswegen das
-                    Güterrechtsregister nicht abschaffen will, weil er damit Geld verdienen will. Ich finde es gut, dass wir eine solche überflüssige Regelung jetzt abschaffen, und
-                    wünsche mir mehr solche Maßnahmen, die entschlacken und Bürokratie abschaffen.</p>
-                <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der FDP – Fabian Jacobi [AfD]: Dann lesen Sie sich die Stellungnahme doch mal
-                    durch! Und erfassen Sie sie inhaltlich! Ich habe sie gelesen! Sie offensichtlich nicht!)</kommentar>
-                <p klasse="J">Entscheidend ist aber heute die Diskussion, die angehängt ist, die Diskussion über das Insolvenzrecht.</p>
-                <kommentar>(Fabian Jacobi [AfD]: Ja, ja!)</kommentar>
-                <p klasse="O">Erst einmal: Wir haben aktuell keine Insolvenzwelle,</p>
-                <kommentar>(Lachen bei Abgeordneten der AfD)</kommentar>
-                <p klasse="O">doch wir müssen davon ausgehen, dass wir in den nächsten Monaten eine schwierigere Situation bekommen. Aber um die Diskussion etwas zu versachlichen:
-                    Im September ist die Zahl der Regelinsolvenzen im Vergleich zu August 2022 um 20,6 Prozent gesunken. Trotzdem ist es richtig: Es gibt einen Insolvenztrend, der
-                    auf steigende Zahlen hinweist. Deswegen ist es auch richtig, dass wir jetzt Abhilfe schaffen mit der Verkürzung der Frist auf vier Monate, damit Sicherheit für
-                    die Unternehmen geschaffen wird; denn das ist es, was die Unternehmen jetzt brauchen: Sicherheit. Darum geht es.</p>
-                <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der FDP sowie bei Abgeordneten der SPD)</kommentar>
-                <p klasse="J">Welche Ursachen gibt es für Insolvenzen? Zum einen haben wir die Zinswende. Natürlich ist es so, dass Zinssteigerungen der Fed und der EZB auch
-                    teurere Unternehmenskredite verursachen. Das kann in der kurzen Frist, in der das jetzt passiert – die USA haben ja noch weitaus höhere Zinssteigerungen als die
-                    EU –, dazu führen, dass Unternehmen, zum Beispiel im Immobiliensektor, überfordert werden. Wir erleben durch die Energiekrise aufgrund des russischen
-                    Angriffskriegs in der Ukraine einen Konsumeinbruch. Wir haben strukturelle Veränderungen – das Thema Karstadt zum Beispiel steht wieder auf der Agenda –, und
-                    wir haben eben diese horrenden Energiepreissteigerungen.</p>
-                <p klasse="J">Weil Sie von der Union vorhin gefragt haben, was wir da tun: Na, ich finde, 200 Milliarden Euro in den Raum zu stellen und zu sagen: „Die kommen jetzt
-                    auch bei den Unternehmen und bei den Verbrauchern an“, das ist schon ein Wort. Das sind 4 bis 5 Prozent der Wirtschaftsleistung.</p>
-                <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der FDP)</kommentar>
-                <p klasse="O">Also, wir schaffen einen Abwehrschirm. Wir ändern das Insolvenzrecht da, wo es notwendig ist. Wir schaffen Sicherheit in schwierigen Zeiten.</p>
-                <p klasse="J">Insofern halte ich es auch so wie mein Vorredner: Ich schenke Ihnen die restliche Redezeit; denn wir haben, glaube ich, noch viel zu tun, um dieses
-                    Land sicher zu machen.</p>
-                <p klasse="J">Vielen Dank.</p>
-                <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der FDP)</kommentar>
-                <name>Vizepräsident Wolfgang Kubicki:</name>
-                <p klasse="J_1">Vielen Dank, Herr Kollege Janecek. – Nächster Redner ist der Kollege Dr. André Hahn, Fraktion Die Linke.</p>
-                <kommentar>(Beifall bei der LINKEN)</kommentar>
-            </rede>
+				<p klasse="redner">
+					<redner id="11004312">
+						<name>
+							<vorname>Dieter</vorname>
+							<nachname>Janecek</nachname>
+							<fraktion>BÜNDNIS 90/DIE GRÜNEN</fraktion>
+						</name>
+					</redner>Dieter Janecek (BÜNDNIS 90/DIE GRÜNEN):</p>
+				<p klasse="J_1">Sehr geehrter Herr Präsident! Herr Jacobi, vielleicht ist Ihnen in den Sinn gekommen, dass der Deutsche Notarverein auch deswegen das Güterrechtsregister nicht abschaffen will, weil er damit Geld verdienen will. Ich finde es gut, dass wir eine solche überflüssige Regelung jetzt abschaffen, und wünsche mir mehr solche Maßnahmen, die entschlacken und Bürokratie abschaffen.</p>
+				<kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der FDP – Fabian Jacobi [AfD]: Dann lesen Sie sich die Stellungnahme doch mal durch! Und erfassen Sie sie inhaltlich! Ich habe sie gelesen! Sie offensichtlich nicht!)</kommentar>
+				<p klasse="J">Entscheidend ist aber heute die Diskussion, die angehängt ist, die Diskussion über das Insolvenzrecht.</p>
+				<kommentar>(Fabian Jacobi [AfD]: Ja, ja!)</kommentar>
+				<p klasse="O">Erst einmal: Wir haben aktuell keine Insolvenzwelle,</p>
+				<kommentar>(Lachen bei Abgeordneten der AfD)</kommentar>
+				<p klasse="O">doch wir müssen davon ausgehen, dass wir in den nächsten Monaten eine schwierigere Situation bekommen. Aber um die Diskussion etwas zu versachlichen: Im September ist die Zahl der Regelinsolvenzen im Vergleich zu August 2022 um 20,6 Prozent gesunken. Trotzdem ist es richtig: Es gibt einen Insolvenztrend, der auf steigende Zahlen hinweist. Deswegen ist es auch richtig, dass wir jetzt Abhilfe schaffen mit der Verkürzung der Frist auf vier Monate, damit Sicherheit für die Unternehmen geschaffen wird; denn das ist es, was die Unternehmen jetzt brauchen: Sicherheit. Darum geht es.</p>
+				<kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der FDP sowie bei Abgeordneten der SPD)</kommentar>
+				<p klasse="J">Welche Ursachen gibt es für Insolvenzen? Zum einen haben wir die Zinswende. Natürlich ist es so, dass Zinssteigerungen der Fed und der EZB auch teurere Unternehmenskredite verursachen. Das kann in der kurzen Frist, in der das jetzt passiert – die USA haben ja noch weitaus höhere Zinssteigerungen als die EU –, dazu führen, dass Unternehmen, zum Beispiel im Immobiliensektor, überfordert werden. Wir erleben durch die Energiekrise aufgrund des russischen Angriffskriegs in der Ukraine einen Konsumeinbruch. Wir haben strukturelle Veränderungen – das Thema Karstadt zum Beispiel steht wieder auf der Agenda –, und wir haben eben diese horrenden Energiepreissteigerungen.</p>
+				<p klasse="J">Weil Sie von der Union vorhin gefragt haben, was wir da tun: Na, ich finde, 200 Milliarden Euro in den Raum zu stellen und zu sagen: „Die kommen jetzt auch bei den Unternehmen und bei den Verbrauchern an“, das ist schon ein Wort. Das sind 4 bis 5 Prozent der Wirtschaftsleistung.</p>
+				<kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und der FDP)</kommentar>
+				<p klasse="O">Also, wir schaffen einen Abwehrschirm. Wir ändern das Insolvenzrecht da, wo es notwendig ist. Wir schaffen Sicherheit in schwierigen Zeiten.</p>
+				<p klasse="J">Insofern halte ich es auch so wie mein Vorredner: Ich schenke Ihnen die restliche Redezeit; denn wir haben, glaube ich, noch viel zu tun, um dieses Land sicher zu machen.</p>
+				<p klasse="J">Vielen Dank.</p>
+				<kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der FDP)</kommentar>
+				<name>Vizepräsident Wolfgang Kubicki:</name>
+				<p klasse="J_1">Vielen Dank, Herr Kollege Janecek. – Nächster Redner ist der Kollege Dr. André Hahn, Fraktion Die Linke.</p>
+				<kommentar>(Beifall bei der LINKEN)</kommentar>
+			</rede>
