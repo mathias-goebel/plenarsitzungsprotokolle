@@ -1,0 +1,93 @@
+Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen der demokratischen Fraktionen! Sehr geehrte Damen und Herren! In der Schule lernen wir
+                    auf mehr oder minder spannende Art und Weise, wie eigentlich Gesetze entstehen. Für einige hier vielleicht noch mal zur Auffrischung: Ein Gesetz wird von uns
+                    als Bundestag und vom Bundesrat beschlossen, vom Kanzler und von den zuständigen Ministerinnen und Ministern gezeichnet und vom Bundespräsidenten ausgefertigt.
+                    Dann wird es im Bundesgesetzblatt veröffentlicht; so viel haben wir heute schon gehört. Erst dann kann es in Kraft treten. Der Bundesanzeiger und das
+                    Bundesgesetzblatt existieren bereits jetzt online und werden dort dauerhaft bereitgehalten.
+Warum reden wir heute also darüber? Ist doch schon online! Was ändern wir eigentlich am E-Verkündungsgesetz? Wir stellen das Bundesgesetzblatt doch
+                    schon als PDF-Datei zur Verfügung. Genau das ist der Punkt: als PDF. Und das ändern wir jetzt.
+Wir gehen mit dieser Änderung einen gigantischen Schritt in Richtung Transparenz und Open Data. Wir veröffentlichen Gesetze fortan als Open Data:
+                    offen, maschinenlesbar, zugänglich, auffindbar und interoperabel. Offen und zugänglich heißt, dass die Daten nicht hinter einer Paywall, einem Log-in oder
+                    grundsätzlich hinter einem Zugang versteckt sind, den man beantragen müsste. Sie stehen einfach, offen und ohne Zugangsbarrieren allen zur Verfügung.
+                    Maschinenlesbar bedeutet, dass wir die Daten in standardisierten Formaten ablegen. Texte, Formate und Metadaten müssen aus den Dokumenten herausgezogen werden
+                    können, also auch durchsuchbar sein, und möglichst über APIs zur Verfügung gestellt werden.
+Fotos, Scans und PDFs sind im Gegensatz dazu oft nicht einfach so maschinenlesbar. Die Auffindbarkeit von Daten bedeutet, dass man sie mithilfe von
+                    Suchmaschinen finden kann. Das hängt mit der Maschinenlesbarkeit zusammen: Wenn Daten nicht durchsuchbar sind, wird sie auch keine Suchmaschine der Welt finden.
+                    Sie sind im Netz sozusagen unsichtbar.
+Als letzten Punkt haben wir die Interoperabilität von Daten. Man könnte aus Lego-Steinen kein Haus bauen, wenn die Klötze nicht aufeinanderpassen
+                    würden. Das Gleiche haben wir bei Daten. Durch standardisierte Formate kann man Daten verschiedenen Ursprungs verknüpfen, zueinander in Kontext setzen und
+                    dadurch ein Mehrwissen generieren. Das ist ein Meilenstein. Wir schaffen Open Data im Recht, und das ist ein großer Schritt auf dem Weg zum Recht auf Open
+                    Data.
+Ob nun § 7 Datennutzungsgesetz, 5‑Star-Linked-Open-Data oder Daten, die nach den FAIR-Prinzipien zur Verfügung gestellt werden, sie alle verfolgen
+                    dasselbe Ziel: Daten in standardisierten Formaten einer breiten Öffentlichkeit maschinenlesbar zur Nachnutzung zur Verfügung zu stellen.
+Jetzt stellen wir aber auch mal die große Frage: Warum wollen wir überhaupt ein Recht auf Open Data? Zwei Punkte will ich dabei hervorheben. Das sind
+                    zum einen Vertrauen und zum anderen Modernisierung.
+Zunächst mal das Vertrauen. Wir sind auf das Vertrauen der Menschen angewiesen, die uns gewählt haben: Vertrauen in uns, Vertrauen in den Staat,
+                    Vertrauen in die parlamentarische Demokratie. Dieses Vertrauen schaffen wir tagtäglich, indem wir kommunizieren: mit unseren Wählerinnen und Wählern in den
+                    Wahlkreisen, mit unseren Followerinnen und Followern im Netz, mit der Presse, mit Vereinen, mit Verbänden. Wir erzählen von unserer Arbeit – Arbeit, die auf
+                    Daten, Studien und Entwürfen beruht, die dem größten Teil der Menschen nicht zugänglich sind. Wenn die Grundlage unserer Entscheidung, nämlich genau diese
+                    Daten, nicht einsehbar sind, müssen wir uns nicht wundern, wenn manche von unseren Entscheidungen für viele schwer nachvollziehbar sind.
+Vielen Dank, Frau Präsidentin. – Wenn wir diese Grundlage als Open Data zur Verfügung stellen, versetzen wir Menschen in die Lage, sich auf genau
+                    der gleichen Basis eine Meinung zu bilden, wie wir das tun, und unsere Entscheidung besser nachzuvollziehen. Damit stärken wir Vertrauen in diese
+                    Entscheidungen, in uns als Parlamentarier/-innen, in den Staat und in unsere Demokratie.
+Ich sage nicht, dass wir alle Dokumente offen zur Verfügung stellen müssen, die hier kursieren; auch das kam schon zur Sprache. Es gibt Dokumente, die
+                    beispielsweise personenbezogene Daten enthalten, die besonders schützenswert sind, oder eben sicherheitsrelevante Dokumente, die man besser nicht als Open Data
+                    zur Verfügung stellen sollte. Aber wir werden eine Diskussion darüber beginnen, wo wir aufhören müssen, als Staat wie der Drache auf dem Datenschatz zu sitzen,
+                    und wo wir anfangen müssen, Wissen bereitzustellen und zu teilen.
+Mein zweiter großer Punkt ist die Modernisierung. Ein beliebtes Gegenargument zu Open Data ist nämlich, dass es zu aufwendig und teuer sei, so viele
+                    Informationen öffentlich zur Verfügung zu stellen. Von Open Data profitieren aber alle, sowohl die Zivilgesellschaft als auch der Staat. Ein Recht auf Open Data
+                    mit der entsprechenden Infrastruktur ist auch ein riesiges Verwaltungsmodernisierungsprogramm. Wenn wir Daten für die Öffentlichkeit zugänglich machen, machen
+                    wir sie auch für Ministerien, Behörden und andere öffentliche Stellen zugänglich. Damit ersparen wir uns langwierige Abstimmungsprozesse, in denen Menschen im
+                    schlimmsten Fall die Informationen aus dem einen Dokument händisch in ein anderes eintragen. Wir beenden diese Datensilos.
+Wenn wir Daten maschinenlesbar und auffindbar für die Öffentlichkeit machen, sind sie auch auffindbar in Behörden und über Behörden hinweg. Durch
+                    diese Interoperabilität können wir Prozesse auch automatisieren, genau diese Prozesse beschleunigen und damit die Verwaltung entlasten. Das hilft im Übrigen
+                    auch gegen den Fachkräftemangel.
+Das bedeutet ein Recht auf Open Data. Da möchten wir hin: zu besseren evidenz- und datenbasierten Entscheidungen, nachvollziehbarer und
+                    transparenter für alle.
+Wir gehen mit Open Data im Recht heute einen wichtigen Schritt zum Recht auf Open Data. Ich freue mich darauf.
+Herzlichen Dank.Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen der demokratischen Fraktionen! Sehr geehrte Damen und Herren! In der Schule lernen wir
+                    auf mehr oder minder spannende Art und Weise, wie eigentlich Gesetze entstehen. Für einige hier vielleicht noch mal zur Auffrischung: Ein Gesetz wird von uns
+                    als Bundestag und vom Bundesrat beschlossen, vom Kanzler und von den zuständigen Ministerinnen und Ministern gezeichnet und vom Bundespräsidenten ausgefertigt.
+                    Dann wird es im Bundesgesetzblatt veröffentlicht; so viel haben wir heute schon gehört. Erst dann kann es in Kraft treten. Der Bundesanzeiger und das
+                    Bundesgesetzblatt existieren bereits jetzt online und werden dort dauerhaft bereitgehalten.
+Warum reden wir heute also darüber? Ist doch schon online! Was ändern wir eigentlich am E-Verkündungsgesetz? Wir stellen das Bundesgesetzblatt doch
+                    schon als PDF-Datei zur Verfügung. Genau das ist der Punkt: als PDF. Und das ändern wir jetzt.
+Wir gehen mit dieser Änderung einen gigantischen Schritt in Richtung Transparenz und Open Data. Wir veröffentlichen Gesetze fortan als Open Data:
+                    offen, maschinenlesbar, zugänglich, auffindbar und interoperabel. Offen und zugänglich heißt, dass die Daten nicht hinter einer Paywall, einem Log-in oder
+                    grundsätzlich hinter einem Zugang versteckt sind, den man beantragen müsste. Sie stehen einfach, offen und ohne Zugangsbarrieren allen zur Verfügung.
+                    Maschinenlesbar bedeutet, dass wir die Daten in standardisierten Formaten ablegen. Texte, Formate und Metadaten müssen aus den Dokumenten herausgezogen werden
+                    können, also auch durchsuchbar sein, und möglichst über APIs zur Verfügung gestellt werden.
+Fotos, Scans und PDFs sind im Gegensatz dazu oft nicht einfach so maschinenlesbar. Die Auffindbarkeit von Daten bedeutet, dass man sie mithilfe von
+                    Suchmaschinen finden kann. Das hängt mit der Maschinenlesbarkeit zusammen: Wenn Daten nicht durchsuchbar sind, wird sie auch keine Suchmaschine der Welt finden.
+                    Sie sind im Netz sozusagen unsichtbar.
+Als letzten Punkt haben wir die Interoperabilität von Daten. Man könnte aus Lego-Steinen kein Haus bauen, wenn die Klötze nicht aufeinanderpassen
+                    würden. Das Gleiche haben wir bei Daten. Durch standardisierte Formate kann man Daten verschiedenen Ursprungs verknüpfen, zueinander in Kontext setzen und
+                    dadurch ein Mehrwissen generieren. Das ist ein Meilenstein. Wir schaffen Open Data im Recht, und das ist ein großer Schritt auf dem Weg zum Recht auf Open
+                    Data.
+Ob nun § 7 Datennutzungsgesetz, 5‑Star-Linked-Open-Data oder Daten, die nach den FAIR-Prinzipien zur Verfügung gestellt werden, sie alle verfolgen
+                    dasselbe Ziel: Daten in standardisierten Formaten einer breiten Öffentlichkeit maschinenlesbar zur Nachnutzung zur Verfügung zu stellen.
+Jetzt stellen wir aber auch mal die große Frage: Warum wollen wir überhaupt ein Recht auf Open Data? Zwei Punkte will ich dabei hervorheben. Das sind
+                    zum einen Vertrauen und zum anderen Modernisierung.
+Zunächst mal das Vertrauen. Wir sind auf das Vertrauen der Menschen angewiesen, die uns gewählt haben: Vertrauen in uns, Vertrauen in den Staat,
+                    Vertrauen in die parlamentarische Demokratie. Dieses Vertrauen schaffen wir tagtäglich, indem wir kommunizieren: mit unseren Wählerinnen und Wählern in den
+                    Wahlkreisen, mit unseren Followerinnen und Followern im Netz, mit der Presse, mit Vereinen, mit Verbänden. Wir erzählen von unserer Arbeit – Arbeit, die auf
+                    Daten, Studien und Entwürfen beruht, die dem größten Teil der Menschen nicht zugänglich sind. Wenn die Grundlage unserer Entscheidung, nämlich genau diese
+                    Daten, nicht einsehbar sind, müssen wir uns nicht wundern, wenn manche von unseren Entscheidungen für viele schwer nachvollziehbar sind.
+Vielen Dank, Frau Präsidentin. – Wenn wir diese Grundlage als Open Data zur Verfügung stellen, versetzen wir Menschen in die Lage, sich auf genau
+                    der gleichen Basis eine Meinung zu bilden, wie wir das tun, und unsere Entscheidung besser nachzuvollziehen. Damit stärken wir Vertrauen in diese
+                    Entscheidungen, in uns als Parlamentarier/-innen, in den Staat und in unsere Demokratie.
+Ich sage nicht, dass wir alle Dokumente offen zur Verfügung stellen müssen, die hier kursieren; auch das kam schon zur Sprache. Es gibt Dokumente, die
+                    beispielsweise personenbezogene Daten enthalten, die besonders schützenswert sind, oder eben sicherheitsrelevante Dokumente, die man besser nicht als Open Data
+                    zur Verfügung stellen sollte. Aber wir werden eine Diskussion darüber beginnen, wo wir aufhören müssen, als Staat wie der Drache auf dem Datenschatz zu sitzen,
+                    und wo wir anfangen müssen, Wissen bereitzustellen und zu teilen.
+Mein zweiter großer Punkt ist die Modernisierung. Ein beliebtes Gegenargument zu Open Data ist nämlich, dass es zu aufwendig und teuer sei, so viele
+                    Informationen öffentlich zur Verfügung zu stellen. Von Open Data profitieren aber alle, sowohl die Zivilgesellschaft als auch der Staat. Ein Recht auf Open Data
+                    mit der entsprechenden Infrastruktur ist auch ein riesiges Verwaltungsmodernisierungsprogramm. Wenn wir Daten für die Öffentlichkeit zugänglich machen, machen
+                    wir sie auch für Ministerien, Behörden und andere öffentliche Stellen zugänglich. Damit ersparen wir uns langwierige Abstimmungsprozesse, in denen Menschen im
+                    schlimmsten Fall die Informationen aus dem einen Dokument händisch in ein anderes eintragen. Wir beenden diese Datensilos.
+Wenn wir Daten maschinenlesbar und auffindbar für die Öffentlichkeit machen, sind sie auch auffindbar in Behörden und über Behörden hinweg. Durch
+                    diese Interoperabilität können wir Prozesse auch automatisieren, genau diese Prozesse beschleunigen und damit die Verwaltung entlasten. Das hilft im Übrigen
+                    auch gegen den Fachkräftemangel.
+Das bedeutet ein Recht auf Open Data. Da möchten wir hin: zu besseren evidenz- und datenbasierten Entscheidungen, nachvollziehbarer und
+                    transparenter für alle.
+Wir gehen mit Open Data im Recht heute einen wichtigen Schritt zum Recht auf Open Data. Ich freue mich darauf.
+Herzlichen Dank.
