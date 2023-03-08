@@ -1,27 +1,11 @@
-Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Zunächst ein Disclaimer: Diese Rede wurde nicht mithilfe von ChatGPT geschrieben. Das
-                    muss man ja bei KI-Debatten mittlerweile immer vorweg erwähnen.
-Zunächst einmal: Ich glaube, in der Stoßrichtung stimmen wir in diesem Haus weitestgehend überein. Auch beim Claim „Daten retten Leben“ stimmen wir,
-                    glaube ich, weitgehend überein.
-Noch eine Bemerkung zu Frau Cotar: Der AI Act, über den wir im europäischen Zusammenhang reden, hat einen Risikomanagementansatz, und zwar genau
-                    denselben Risikomanagementansatz wie bei der DIN EN ISO 14971, der Anwendung des Risikomanagements auf Medizinprodukte. Deswegen ist es gerade sinnvoll, diese
-                    Technologie genauso anzugehen. Das sind bewährte Werkzeuge.
+Sehr geehrte Frau Präsidentin! Liebe Kolleginnen und Kollegen! Zunächst ein Disclaimer: Diese Rede wurde nicht mithilfe von ChatGPT geschrieben. Das muss man ja bei KI-Debatten mittlerweile immer vorweg erwähnen.
+Zunächst einmal: Ich glaube, in der Stoßrichtung stimmen wir in diesem Haus weitestgehend überein. Auch beim Claim „Daten retten Leben“ stimmen wir, glaube ich, weitgehend überein.
+Noch eine Bemerkung zu Frau Cotar: Der AI Act, über den wir im europäischen Zusammenhang reden, hat einen Risikomanagementansatz, und zwar genau denselben Risikomanagementansatz wie bei der DIN EN ISO 14971, der Anwendung des Risikomanagements auf Medizinprodukte. Deswegen ist es gerade sinnvoll, diese Technologie genauso anzugehen. Das sind bewährte Werkzeuge.
 Ich möchte trotzdem, liebe Kolleginnen und Kollegen von der Union, ein paar Punkte der Kritik an Ihrem Antrag formulieren:
-Erstens. Sie fordern in dem Antrag einen nationalen Alleingang im Falle von Verzögerungen auf EU-Ebene beim European Health Data Space, EHDS. Diese
-                    Forderung zeigt mir, dass Sie aus Fehlern in der Vergangenheit relativ wenig gelernt zu haben scheinen. Sie wissen doch selbst: Ein nationaler Alleingang führt
-                    immer nur zu unnötig vielen Prozessschleifen, Anpassungen und am Ende zu einer völlig frustrierten Branche. Genau deshalb verwundert es mich etwas, dass Sie in
-                    Ihrem Antrag als Best-Practice-Beispiel für den nationalen Alleingang gerade das IT-Sicherheitsgesetz und die NIS-Richtlinie benennen. Gerade bei diesem
-                    Beispiel haben wir doch alle schmerzhaft in Erinnerung, wie viel bürokratischen Aufwand und unnötiges Hin und Her dieses Vorgehen allen Beteiligten beschert
-                    hat.
-Am Ende schießen Sie mit so einem Vorgehen genau denjenigen ins Knie, die Sie mit diesem Antrag eigentlich unterstützen wollen – wie im Dezember 2020,
-                    als das damals noch unionsgeführte BMI den Stakeholdern beim Gesetzgebungsprozess zum IT-Sicherheitsgesetz 2.0 genau 27 Stunden Zeit gegeben hat, sich
-                    einzubringen. Das erscheint mir an der Stelle sehr problematisch.
-Zweiter Punkt. Sie schreiben in Ihrem Antrag mehrfach, wie dringend die Verbesserung von Gründungsbedingungen und die Etablierung von weiteren
-                    Förderungsinstrumenten für Start-ups seien. Wieder wundere ich mich ein wenig; denn, lieber Herr Jarzombek, Sie haben ja vor sechs Wochen hier im Plenum
-                    durchaus Ihre Unterstützung für die Start-up-Strategie bekannt gegeben – das kann ich gut verstehen –; denn mit der tun wir genau das, was Sie in diesem Antrag
-                    an vielen Stellen fordern.
-Dritter Punkt. Sie werfen uns zu dem Zeitpunkt, zu dem wir die Zukunftsstrategie Forschung und Innovation vorstellen, Stillstand vor. Das widerspricht
-                    sich meines Erachtens auch ein wenig.
-Liebe Kolleginnen und Kollegen von der Union, das Timing lässt mich tatsächlich ein bisschen schmunzelnd zurück, vor allen Dingen mit Blick darauf,
-                    dass gerade Gesetzesvorhaben wie das Gesundheitsdatennutzungsgesetz und das Forschungsdatengesetz in Arbeit sind.
+Erstens. Sie fordern in dem Antrag einen nationalen Alleingang im Falle von Verzögerungen auf EU-Ebene beim European Health Data Space, EHDS. Diese Forderung zeigt mir, dass Sie aus Fehlern in der Vergangenheit relativ wenig gelernt zu haben scheinen. Sie wissen doch selbst: Ein nationaler Alleingang führt immer nur zu unnötig vielen Prozessschleifen, Anpassungen und am Ende zu einer völlig frustrierten Branche. Genau deshalb verwundert es mich etwas, dass Sie in Ihrem Antrag als Best-Practice-Beispiel für den nationalen Alleingang gerade das IT-Sicherheitsgesetz und die NIS-Richtlinie benennen. Gerade bei diesem Beispiel haben wir doch alle schmerzhaft in Erinnerung, wie viel bürokratischen Aufwand und unnötiges Hin und Her dieses Vorgehen allen Beteiligten beschert hat.
+Am Ende schießen Sie mit so einem Vorgehen genau denjenigen ins Knie, die Sie mit diesem Antrag eigentlich unterstützen wollen – wie im Dezember 2020, als das damals noch unionsgeführte BMI den Stakeholdern beim Gesetzgebungsprozess zum IT-Sicherheitsgesetz 2.0 genau 27 Stunden Zeit gegeben hat, sich einzubringen. Das erscheint mir an der Stelle sehr problematisch.
+Zweiter Punkt. Sie schreiben in Ihrem Antrag mehrfach, wie dringend die Verbesserung von Gründungsbedingungen und die Etablierung von weiteren Förderungsinstrumenten für Start-ups seien. Wieder wundere ich mich ein wenig; denn, lieber Herr Jarzombek, Sie haben ja vor sechs Wochen hier im Plenum durchaus Ihre Unterstützung für die Start-up-Strategie bekannt gegeben – das kann ich gut verstehen –; denn mit der tun wir genau das, was Sie in diesem Antrag an vielen Stellen fordern.
+Dritter Punkt. Sie werfen uns zu dem Zeitpunkt, zu dem wir die Zukunftsstrategie Forschung und Innovation vorstellen, Stillstand vor. Das widerspricht sich meines Erachtens auch ein wenig.
+Liebe Kolleginnen und Kollegen von der Union, das Timing lässt mich tatsächlich ein bisschen schmunzelnd zurück, vor allen Dingen mit Blick darauf, dass gerade Gesetzesvorhaben wie das Gesundheitsdatennutzungsgesetz und das Forschungsdatengesetz in Arbeit sind.
 Gas geben, lieber Herr Jarzombek, das tun wir gerade, und das wissen Sie. Ich bin mir sicher, dass wir das auch erfolgreich umsetzen werden.
 Vielen Dank.

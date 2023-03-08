@@ -1,21 +1,15 @@
 <rede id="ID208808100">
-                <p klasse="redner">
-        <redner id="11005249">
-            <name>
-                <vorname>Maja</vorname>
-                <nachname>Wallstein</nachname>
-                <fraktion>SPD</fraktion>
-            </name>
-        </redner>Maja Wallstein
-                    (SPD):</p>
-                <p klasse="J_1">Ich stimme Ihnen zu, und – das habe ich vielleicht in meiner Rede nicht ganz deutlich gemacht – ich bin Ihnen dankbar, dass Sie mit diesem Antrag
-                    die Debatte ins Haus gebracht haben, natürlich auch in den Ausschuss. Ich finde, wir haben vielleicht, nein, ganz sicher in den letzten Jahren viel verschlafen.
-                    Deshalb: Danke, dass wir die Debatte jetzt hier führen! Aber es darf eben nicht bei der Debatte bleiben.</p>
-                <p klasse="J">Ich sage Ihnen – und ich habe das in der Rede versucht deutlich zu machen; ich bitte um Vergebung, wenn ich da nicht deutlich genug geworden bin –,
-                    dass ich gerade im Gesundheitsministerium sehr viel Aktivität bei diesem Thema sehe. Sie werden mit Blick auf die persönliche Biografie von Karl Lauterbach
-                    verstehen, dass er ein großes Interesse daran hat, da endlich voranzukommen. Genau das werden wir als Koalition – gerne mit Ihrer Unterstützung – auch
-                    vorantreiben. Deshalb: Danke noch mal, dass Sie die Debatte hierhergebracht haben!</p>
-                <kommentar>(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der FDP)</kommentar>
-                <name>Vizepräsidentin Yvonne Magwas:</name>
-                <p klasse="J_1">Die nächste Rednerin ist die Abgeordnete Cotar.</p>
-            </rede>
+				<p klasse="redner">
+					<redner id="11005249">
+						<name>
+							<vorname>Maja</vorname>
+							<nachname>Wallstein</nachname>
+							<fraktion>SPD</fraktion>
+						</name>
+					</redner>Maja Wallstein (SPD):</p>
+				<p klasse="J_1">Ich stimme Ihnen zu, und – das habe ich vielleicht in meiner Rede nicht ganz deutlich gemacht – ich bin Ihnen dankbar, dass Sie mit diesem Antrag die Debatte ins Haus gebracht haben, natürlich auch in den Ausschuss. Ich finde, wir haben vielleicht, nein, ganz sicher in den letzten Jahren viel verschlafen. Deshalb: Danke, dass wir die Debatte jetzt hier führen! Aber es darf eben nicht bei der Debatte bleiben.</p>
+				<p klasse="J">Ich sage Ihnen – und ich habe das in der Rede versucht deutlich zu machen; ich bitte um Vergebung, wenn ich da nicht deutlich genug geworden bin –, dass ich gerade im Gesundheitsministerium sehr viel Aktivität bei diesem Thema sehe. Sie werden mit Blick auf die persönliche Biografie von Karl Lauterbach verstehen, dass er ein großes Interesse daran hat, da endlich voranzukommen. Genau das werden wir als Koalition – gerne mit Ihrer Unterstützung – auch vorantreiben. Deshalb: Danke noch mal, dass Sie die Debatte hierhergebracht haben!</p>
+				<kommentar>(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der FDP)</kommentar>
+				<name>Vizepräsidentin Yvonne Magwas:</name>
+				<p klasse="J_1">Die nächste Rednerin ist die Abgeordnete Cotar.</p>
+			</rede>

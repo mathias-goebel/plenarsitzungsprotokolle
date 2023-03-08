@@ -1,20 +1,16 @@
 <rede id="ID208803500">
-                <p klasse="redner">
-        <redner id="11005053">
-            <name>
-                <vorname>Robert</vorname>
-                <nachname>Farle</nachname>
-                <fraktion>Fraktionslos</fraktion>
-            </name>
-        </redner>Robert Farle
-                    (fraktionslos):</p>
-                <p klasse="J_1">Vielen Dank, Frau Präsidentin. – Nur ganz kurz: Die Kritik, was die Arbeit im Parlament anbelangt, finde ich richtig. Wenn ich in der Öffentlichkeit
-                    für Friedenspolitik eintrete, dann muss ich auch dem Parlament den Respekt entgegenbringen, hier zu erscheinen und mitzudiskutieren. Das teile ich.</p>
-                <p klasse="J">Da es um den Respekt gegenüber dem Parlament geht, hätte ich gerne den Kollegen, der gerade gesprochen hat, gefragt, ob er das gut findet, wie
-                    Selenskyj mit den Oppositionsparteien in der Ukraine umgegangen ist, dass er alle verboten hat, zum Teil hat verfolgen lassen.</p>
-                <kommentar>(Konstantin Kuhle [FDP]: Was?)</kommentar>
-                <p klasse="O">Sogar die Presse in der Ukraine ist vollständig gleichgeschaltet. Das hat doch mit demokratischem Parlamentarismus null Komma nichts zu tun. –
-                    Danke.</p>
-                <name>Vizepräsidentin Katrin Göring-Eckardt:</name>
-                <p klasse="J_1">Herr Wadephul, möchten Sie darauf antworten? – Bitte sehr.</p>
-            </rede>
+				<p klasse="redner">
+					<redner id="11005053">
+						<name>
+							<vorname>Robert</vorname>
+							<nachname>Farle</nachname>
+							<fraktion>Fraktionslos</fraktion>
+						</name>
+					</redner>Robert Farle (fraktionslos):</p>
+				<p klasse="J_1">Vielen Dank, Frau Präsidentin. – Nur ganz kurz: Die Kritik, was die Arbeit im Parlament anbelangt, finde ich richtig. Wenn ich in der Öffentlichkeit für Friedenspolitik eintrete, dann muss ich auch dem Parlament den Respekt entgegenbringen, hier zu erscheinen und mitzudiskutieren. Das teile ich.</p>
+				<p klasse="J">Da es um den Respekt gegenüber dem Parlament geht, hätte ich gerne den Kollegen, der gerade gesprochen hat, gefragt, ob er das gut findet, wie Selenskyj mit den Oppositionsparteien in der Ukraine umgegangen ist, dass er alle verboten hat, zum Teil hat verfolgen lassen.</p>
+				<kommentar>(Konstantin Kuhle [FDP]: Was?)</kommentar>
+				<p klasse="O">Sogar die Presse in der Ukraine ist vollständig gleichgeschaltet. Das hat doch mit demokratischem Parlamentarismus null Komma nichts zu tun. – Danke.</p>
+				<name>Vizepräsidentin Katrin Göring-Eckardt:</name>
+				<p klasse="J_1">Herr Wadephul, möchten Sie darauf antworten? – Bitte sehr.</p>
+			</rede>

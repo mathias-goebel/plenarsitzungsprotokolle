@@ -1,18 +1,16 @@
 <rede id="ID208803600">
-                <p klasse="redner">
-        <redner id="11004182">
-            <name>
-                <titel>Dr.</titel>
-                <vorname>Johann
-                        David</vorname>
-                <nachname>Wadephul</nachname>
-                <fraktion>CDU/CSU</fraktion>
-            </name>
-        </redner>Dr. Johann David Wadephul (CDU/CSU):</p>
-                <p klasse="J_1">Ich würde dieser Wortmeldung nicht allzu viel Aufmerksamkeit zukommen lassen wollen, aber eines festhalten: Das, was Sie hier zur Politik in der
-                    Ukraine und zur Politik des ukrainischen Präsidenten gesagt haben, ist schlichtweg falsch.</p>
-                <kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD und der FDP)</kommentar>
-                <name>Vizepräsidentin Katrin Göring-Eckardt:</name>
-                <p klasse="J_1">Das Wort hat Jürgen Trittin für Bündnis 90/Die Grünen.</p>
-                <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der FDP)</kommentar>
-            </rede>
+				<p klasse="redner">
+					<redner id="11004182">
+						<name>
+							<titel>Dr.</titel>
+							<vorname>Johann David</vorname>
+							<nachname>Wadephul</nachname>
+							<fraktion>CDU/CSU</fraktion>
+						</name>
+					</redner>Dr. Johann David Wadephul (CDU/CSU):</p>
+				<p klasse="J_1">Ich würde dieser Wortmeldung nicht allzu viel Aufmerksamkeit zukommen lassen wollen, aber eines festhalten: Das, was Sie hier zur Politik in der Ukraine und zur Politik des ukrainischen Präsidenten gesagt haben, ist schlichtweg falsch.</p>
+				<kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD und der FDP)</kommentar>
+				<name>Vizepräsidentin Katrin Göring-Eckardt:</name>
+				<p klasse="J_1">Das Wort hat Jürgen Trittin für Bündnis 90/Die Grünen.</p>
+				<kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der FDP)</kommentar>
+			</rede>
