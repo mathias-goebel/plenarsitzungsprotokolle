@@ -1,0 +1,4 @@
+Grundsätzlich haben wir ein großes Interesse daran, dass wir bei sicherheitsrelevanten Komponenten eine europäische Souveränität haben. Das ist ein
+                    wichtiger Punkt, der meines Erachtens zunehmend an Bedeutung gewinnt. Inwieweit die in Deutschland verbauten Komponenten nichteuropäischer Hersteller in unserem
+                    Mobilfunknetz Sicherheitslücken aufweisen, wird derzeit vom Bundesministerium des Innern überprüft. Diese Überprüfung ist noch nicht abschlossen; deswegen kann
+                    ich keine abschließende Bewertung vornehmen.

@@ -1,0 +1,6 @@
+Herr Kollege, ich bin der Meinung, dass wir die Sicherheitsanforderungen an unsere Infrastruktur – das bezieht sich ausdrücklich auch auf die
+                    Komponenten im Bereich der Mobilfunkinfrastruktur – sehr ernst nehmen müssen. Deswegen müssen wir kontinuierlich überprüfen, ob diese Komponenten unseren
+                    Sicherheitsanforderungen entsprechen.
+Ich bin aber auch dafür, dass man das nicht alleine an dem Herkunftssitz eines Unternehmens festmacht, das diese Komponenten geliefert hat. Vielmehr
+                    muss man diese Komponenten als solche betrachten; denn jede Komponente – egal aus welchem Teil dieser Welt sie stammt – muss unseren Sicherheitsanforderungen
+                    genügen. Nach diesem Prinzip handelt die Bundesregierung.
