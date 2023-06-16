@@ -1,0 +1,77 @@
+Frau Präsidentin! Liebe Kolleginnen und Kollegen! Quantentechnologien sind absolute Schlüsseltechnologien und sind wichtig für die technische
+                    Souveränität Deutschlands. Deshalb ist es gut, dass die neue Bundesregierung die Strategie der alten Bundesregierung fortschreibt. Das möchte ich ganz
+                    ausdrücklich hier loben.
+Ich möchte als zweiten Punkt sagen: Ich bin auch ein Stück weit stolz auf das, was wir hier in den letzten Jahren erreicht haben. Deutschland ist hier
+                    nicht nur führend in der Forschung, hat viele Nobelpreisträger und viele andere Dinge, sondern wir haben hier auch ein Ökosystem aufgebaut. Es gab in der alten
+                    Bundesregierung eine sehr intensive Diskussion über die Frage, ob man im Forschungselfenbeinturm, sage ich mal, einen Quantencomputer Full Stack baut, oder ob
+                    wir auf den Platz rausgehen, wo es heute schon Firmen und Technologien gibt, und dort als Ankerkunde Dinge kaufen. Das ist uns ganz gut gelungen, glaube ich,
+                    wenn ich das jetzt sehe. 
+Wir haben 2 Milliarden Euro aus dem Coronaprogramm bereitgestellt. Übrigens hätte ich mir gewünscht, dass auch aus den Paketen der aktuellen Krise mal
+                    Geld für Forschung in die Hand genommen worden wäre. Jedenfalls haben wir in der Coronaphase 2 Milliarden Euro in die Hand genommen, und aus dem Programm
+                    740 Millionen Euro an das DLR gegeben, um Start-ups Aufträge zu geben. Dabei handelt es sich um Firmen wie zum Beispiel Planqc, die jetzt gerade einen Auftrag
+                    über 29 Millionen Euro bekommen haben.
+Was der Nutzen davon ist, beschreibe ich mal. Es gibt ein kleines Start-up an der Uni Siegen, eleQtron. Da hat ein Wagniskapitalgeber einen kleinen
+                    Betrag investiert. Als es jetzt den Auftrag über 7 Millionen Euro vom DLR bekommen hat, wurden von dem Investor noch mal 7 Millionen Euro koinvestiert. So
+                    funktioniert kluge Forschungspolitik: dass wir nicht alles alleine machen, sondern dass wir unsere Gelder auch hebeln. Ich glaube, dass das hier gut gelungen
+                    ist. Ich will IQM nennen, die den Auftrag für das Leibniz-Rechenzentrum bei München über 40 Millionen Euro bekommen haben. Das hat auch dort geholfen, massiv
+                    Wagniskapital zu sammeln. Es ist das bestfinanzierte Quanten-Start-up in Europa.
+Also, dieser Weg ist gut. Dieser Weg muss aber auch weitergegangen werden. Das fehlt mir in dieser Strategie; das will ich deutlich sagen. Über diese
+                    600 Millionen Euro für die Start-ups hinaus gibt es keine Weiterentwicklung. Es sind Aufträge vergeben worden. Aber man kann mit dem Geld die Maschine nicht
+                    bauen.
+Jetzt kommt der nächste Punkt. Ich habe aus der Rede, lieber Mario Brandenburg, nicht verstanden, wie ihr die Dinge eigentlich machen wollt. Das ist
+                    das Problem. Angesichts der Überschrift in allen Zeitungen „Bis 2026 wird ein Quantencomputer gebaut“ stelle ich mir die Frage: Ja, wie? Und wer soll das
+                    machen? Das steht in diesem Konzept jedenfalls nicht drin. Ich finde aber, das ist wirklich die zentrale Frage: Vergebe ich jetzt Aufträge an Start-ups, oder
+                    vergebe ich einen Auftrag an Siemens oder an wen auch immer, oder soll es Helmholtz selber bauen? Das ist die ganz entscheidende Frage dafür, ob das Vorhaben
+                    gelingt oder nicht gelingt.
+So, und dann muss man auch die Frage lösen: Will man jetzt eigentlich wirklich die ganze Maschine bauen? Können wir das? Sind wir in Deutschland
+                    tatsächlich groß genug, um mit Google und IBM in Konkurrenz zu treten? Oder ist es nicht klüger, auf einzelne Komponenten zu setzen? Beim Personal Computer gibt
+                    es ja auch Firmen, die riesig geworden sind: Nvidia mit Grafikkarten, Microsoft mit Betriebssystemen. Also, müssen wir die ganze Maschine bauen? In diesem
+                    Programm der Regierung findet sich mal das eine, mal das andere. Ich glaube, Sie sind sich nicht klar darüber, was Sie machen wollen. Sie sollten sich klar
+                    werden.
+Der dritte Punkt ist die Software. Software kommt hier völlig unter die Räder. Es findet sich irgendwo hinten im Anhang. Ich lese immer nur von
+                    „Hardware, Hardware, Hardware“. Software ist super wichtig. Statt hier jetzt den Kopf zu schütteln, wäre mein Vorschlag: Reinschreiben!
+Dann muss man auch gucken, was das DLR eigentlich am Ende macht. 140 Millionen Euro für die Bewirtschaftung ist viel. Kann man nicht, wenn es jetzt
+                    weiterentwickelt wird und Wissen da ist, den Overhead senken? Wie funktionieren die Rechte, die IP? Mir haben zahlreiche Leute gesagt: So, wie ihr die Rechte
+                    verteilt, ist es für uns unattraktiv. – Ich glaube, da muss man unbedingt ran. Es muss technologieoffen sein, Stichwort: supraleitend. Und man muss auch gucken,
+                    dass der Fokus wirklich auf unseren Start-ups und nicht auf welchen aus Drittstaaten liegt.
+Also, es gibt hier einiges zu tun. Gut, dass Sie es fortführen. Aber die Liste der Aufgaben ist da. Ich fände es gut, wenn wir darüber im Ausschuss
+                    noch mal diskutieren und am Ende auch zu einer wirklichen Weiterentwicklung kommen.
+Vielen Dank.Frau Präsidentin! Liebe Kolleginnen und Kollegen! Quantentechnologien sind absolute Schlüsseltechnologien und sind wichtig für die technische
+                    Souveränität Deutschlands. Deshalb ist es gut, dass die neue Bundesregierung die Strategie der alten Bundesregierung fortschreibt. Das möchte ich ganz
+                    ausdrücklich hier loben.
+Ich möchte als zweiten Punkt sagen: Ich bin auch ein Stück weit stolz auf das, was wir hier in den letzten Jahren erreicht haben. Deutschland ist hier
+                    nicht nur führend in der Forschung, hat viele Nobelpreisträger und viele andere Dinge, sondern wir haben hier auch ein Ökosystem aufgebaut. Es gab in der alten
+                    Bundesregierung eine sehr intensive Diskussion über die Frage, ob man im Forschungselfenbeinturm, sage ich mal, einen Quantencomputer Full Stack baut, oder ob
+                    wir auf den Platz rausgehen, wo es heute schon Firmen und Technologien gibt, und dort als Ankerkunde Dinge kaufen. Das ist uns ganz gut gelungen, glaube ich,
+                    wenn ich das jetzt sehe. 
+Wir haben 2 Milliarden Euro aus dem Coronaprogramm bereitgestellt. Übrigens hätte ich mir gewünscht, dass auch aus den Paketen der aktuellen Krise mal
+                    Geld für Forschung in die Hand genommen worden wäre. Jedenfalls haben wir in der Coronaphase 2 Milliarden Euro in die Hand genommen, und aus dem Programm
+                    740 Millionen Euro an das DLR gegeben, um Start-ups Aufträge zu geben. Dabei handelt es sich um Firmen wie zum Beispiel Planqc, die jetzt gerade einen Auftrag
+                    über 29 Millionen Euro bekommen haben.
+Was der Nutzen davon ist, beschreibe ich mal. Es gibt ein kleines Start-up an der Uni Siegen, eleQtron. Da hat ein Wagniskapitalgeber einen kleinen
+                    Betrag investiert. Als es jetzt den Auftrag über 7 Millionen Euro vom DLR bekommen hat, wurden von dem Investor noch mal 7 Millionen Euro koinvestiert. So
+                    funktioniert kluge Forschungspolitik: dass wir nicht alles alleine machen, sondern dass wir unsere Gelder auch hebeln. Ich glaube, dass das hier gut gelungen
+                    ist. Ich will IQM nennen, die den Auftrag für das Leibniz-Rechenzentrum bei München über 40 Millionen Euro bekommen haben. Das hat auch dort geholfen, massiv
+                    Wagniskapital zu sammeln. Es ist das bestfinanzierte Quanten-Start-up in Europa.
+Also, dieser Weg ist gut. Dieser Weg muss aber auch weitergegangen werden. Das fehlt mir in dieser Strategie; das will ich deutlich sagen. Über diese
+                    600 Millionen Euro für die Start-ups hinaus gibt es keine Weiterentwicklung. Es sind Aufträge vergeben worden. Aber man kann mit dem Geld die Maschine nicht
+                    bauen.
+Jetzt kommt der nächste Punkt. Ich habe aus der Rede, lieber Mario Brandenburg, nicht verstanden, wie ihr die Dinge eigentlich machen wollt. Das ist
+                    das Problem. Angesichts der Überschrift in allen Zeitungen „Bis 2026 wird ein Quantencomputer gebaut“ stelle ich mir die Frage: Ja, wie? Und wer soll das
+                    machen? Das steht in diesem Konzept jedenfalls nicht drin. Ich finde aber, das ist wirklich die zentrale Frage: Vergebe ich jetzt Aufträge an Start-ups, oder
+                    vergebe ich einen Auftrag an Siemens oder an wen auch immer, oder soll es Helmholtz selber bauen? Das ist die ganz entscheidende Frage dafür, ob das Vorhaben
+                    gelingt oder nicht gelingt.
+So, und dann muss man auch die Frage lösen: Will man jetzt eigentlich wirklich die ganze Maschine bauen? Können wir das? Sind wir in Deutschland
+                    tatsächlich groß genug, um mit Google und IBM in Konkurrenz zu treten? Oder ist es nicht klüger, auf einzelne Komponenten zu setzen? Beim Personal Computer gibt
+                    es ja auch Firmen, die riesig geworden sind: Nvidia mit Grafikkarten, Microsoft mit Betriebssystemen. Also, müssen wir die ganze Maschine bauen? In diesem
+                    Programm der Regierung findet sich mal das eine, mal das andere. Ich glaube, Sie sind sich nicht klar darüber, was Sie machen wollen. Sie sollten sich klar
+                    werden.
+Der dritte Punkt ist die Software. Software kommt hier völlig unter die Räder. Es findet sich irgendwo hinten im Anhang. Ich lese immer nur von
+                    „Hardware, Hardware, Hardware“. Software ist super wichtig. Statt hier jetzt den Kopf zu schütteln, wäre mein Vorschlag: Reinschreiben!
+Dann muss man auch gucken, was das DLR eigentlich am Ende macht. 140 Millionen Euro für die Bewirtschaftung ist viel. Kann man nicht, wenn es jetzt
+                    weiterentwickelt wird und Wissen da ist, den Overhead senken? Wie funktionieren die Rechte, die IP? Mir haben zahlreiche Leute gesagt: So, wie ihr die Rechte
+                    verteilt, ist es für uns unattraktiv. – Ich glaube, da muss man unbedingt ran. Es muss technologieoffen sein, Stichwort: supraleitend. Und man muss auch gucken,
+                    dass der Fokus wirklich auf unseren Start-ups und nicht auf welchen aus Drittstaaten liegt.
+Also, es gibt hier einiges zu tun. Gut, dass Sie es fortführen. Aber die Liste der Aufgaben ist da. Ich fände es gut, wenn wir darüber im Ausschuss
+                    noch mal diskutieren und am Ende auch zu einer wirklichen Weiterentwicklung kommen.
+Vielen Dank.
