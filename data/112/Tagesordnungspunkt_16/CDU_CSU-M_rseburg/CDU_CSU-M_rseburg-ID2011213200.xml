@@ -1,45 +1,67 @@
 <rede id="ID2011213200">
-				<p klasse="redner">
-					<redner id="11005159">
-						<name>
-							<vorname>Maximilian</vorname>
-							<nachname>Mörseburg</nachname>
-							<fraktion>CDU/CSU</fraktion>
-						</name>
-					</redner>Maximilian Mörseburg (CDU/CSU):</p>
-				<p klasse="J_1">Sehr geehrte Frau Präsidentin! Sehr geehrte Kolleginnen und Kollegen! Die Linke möchte eine bessere Lohnentwicklung in Deutschland, und natürlich stützen das alle Fraktionen, auch die CDU/CSU-Fraktion. Ich möchte es aber noch mal präzisieren: Was wir eigentlich brauchen, ist nicht nur mehr Lohn, sondern wir brauchen vor allem mehr Reallohn. Das bedeutet, wir brauchen nicht nur mehr Geld, das aufs Konto überwiesen wird, sondern ich muss mir mit diesem Geld auch mehr an Produkten in den Läden kaufen können, sonst bringt mir jede Gehaltserhöhung nämlich überhaupt nichts.</p>
-				<p klasse="J">Wir haben in Deutschland immer noch anhaltende Inflation. Die aktuelle Situation ist die, dass die von den externen Verursachern getriebene Inflation, also die hohen Energie- und Lebensmittelpreise, langsam wieder runtergeht. Aber wir haben noch – das sagen Ihre eigenen Experten in der Bundesregierung – eine anhaltende Kerninflation. Und das ist ein Problem. Diese Kerninflation hält an und wird hauptsächlich getrieben durch Lohndruck. Das ist die wirtschaftspolitische Realität.</p>
-				<p klasse="J">Was hat die Geldpolitik in der Vergangenheit getan? Die Geldpolitik hat in diesen Situationen die Zinsen erhöht. Damit ist die Konjunktur runtergegangen. Das hat zu Arbeitslosigkeit geführt – ein Übel, das benötigt wurde, damit die Nachfrage runtergeht. Dieses Mittel der Geldpolitik haben wir in dieser sehr positiven und wünschenswerten Arbeitsmarktsituation nicht mehr, und deswegen muss der Staat in dieser Situation unterstützen. Der Staat muss ebenfalls inflationsbremsend auftreten, sonst werden wir dieses Ziel von höheren Löhnen in Deutschland nicht erreichen, weil die Löhne von der Inflation einfach aufgefressen werden, meine sehr geehrten Damen und Herren!</p>
-				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
-				<p klasse="J">Vor diesem Hintergrund können wir zwei Dinge tun: solide Fiskalpolitik und Staatspolitik, die zum einen das Angebot unterstützt und zum anderen nicht in falscher Art und Weise in die Lohnpreisbindung einsteigt. Wir müssen also schauen, dass wir den Unternehmen ihre Arbeitsfelder deregulieren und es möglich machen, dass sie mehr Produkte herstellen können, damit mehr im Supermarkt ist, damit es günstiger wird. Und wir müssen schauen, dass wir keine falschen Anreize in der Lohnpolitik schaffen. Ein positives Beispiel seitens der Bundesregierung: Die Einmalzahlungen sind an der Stelle absolut richtig gewesen. Was aber nicht richtig ist, ist eine Koppelung des Mindestlohns an den Median, weil das eine inflationstreibende Maßnahme ist, und wenn wir am Ende weniger davon haben und weil die Löhne nur höher sind, hilft das niemandem.</p>
-				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
-				<p klasse="J">Am Ende dieser Rede, Herr Teutrine, komme ich noch mal ganz kurz zu Ihnen. Es braucht schon wirklich Chuzpe, sich hierhinzustellen, nachdem man selbst gegen die Grundprinzipien – Herr Teutrine, hören Sie doch einfach mal zu – der sozialen Marktwirtschaft verstoßen hat, indem man den politisch festgelegten Mindestlohn in Deutschland eingeführt und damit diesen Überbietungswettbewerb von links außen angefacht hat, und Ursula von der Leyen als die Kaiserin von Europa darzustellen, –</p>
-				<name>Vizepräsidentin Yvonne Magwas:</name>
-				<p klasse="J_1">Kommen Sie bitte zum Schluss.</p>
-				<p klasse="redner">
-					<redner id="11005159">
-						<name>
-							<vorname>Maximilian</vorname>
-							<nachname>Mörseburg</nachname>
-							<fraktion>CDU/CSU</fraktion>
-						</name>
-					</redner>Maximilian Mörseburg (CDU/CSU):</p>
-				<p klasse="J_1">– die mit einer Europa-Ampelmehrheit unter Führung von Macron, oft auch mit Ihren Stimmen von der FDP-Fraktion, viele Dinge vom Europaparlament vorgelegt bekommt.</p>
-				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
-				<name>Vizepräsidentin Yvonne Magwas:</name>
-				<p klasse="J_1">Herr Mörseburg, letzter Satz, bitte.</p>
-				<p klasse="redner">
-					<redner id="11005159">
-						<name>
-							<vorname>Maximilian</vorname>
-							<nachname>Mörseburg</nachname>
-							<fraktion>CDU/CSU</fraktion>
-						</name>
-					</redner>Maximilian Mörseburg (CDU/CSU):</p>
-				<p klasse="J_1">Das ist einfach nicht die Realität. Bevor Sie so eine Rede halten, überlegen Sie sich einfach, was Sie da sagen.</p>
-				<p klasse="J">Vielen Dank.</p>
-				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
-				<name>Vizepräsidentin Yvonne Magwas:</name>
-				<p klasse="J_1">Und für die SPD-Fraktion hat das Wort Michael Gerdes.</p>
-				<kommentar>(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</kommentar>
-			</rede>
+                <p klasse="redner">
+        <redner id="11005159">
+            <name>
+                <vorname>Maximilian</vorname>
+                <nachname>Mörseburg</nachname>
+                <fraktion>CDU/CSU</fraktion>
+            </name>
+        </redner>Maximilian
+                    Mörseburg (CDU/CSU):</p>
+                <p klasse="J_1">Sehr geehrte Frau Präsidentin! Sehr geehrte Kolleginnen und Kollegen! Die Linke möchte eine bessere Lohnentwicklung in Deutschland, und natürlich
+                    stützen das alle Fraktionen, auch die CDU/CSU-Fraktion. Ich möchte es aber noch mal präzisieren: Was wir eigentlich brauchen, ist nicht nur mehr Lohn, sondern
+                    wir brauchen vor allem mehr Reallohn. Das bedeutet, wir brauchen nicht nur mehr Geld, das aufs Konto überwiesen wird, sondern ich muss mir mit diesem Geld auch
+                    mehr an Produkten in den Läden kaufen können, sonst bringt mir jede Gehaltserhöhung nämlich überhaupt nichts.</p>
+                <p klasse="J">Wir haben in Deutschland immer noch anhaltende Inflation. Die aktuelle Situation ist die, dass die von den externen Verursachern getriebene Inflation,
+                    also die hohen Energie- und Lebensmittelpreise, langsam wieder runtergeht. Aber wir haben noch – das sagen Ihre eigenen Experten in der Bundesregierung – eine
+                    anhaltende Kerninflation. Und das ist ein Problem. Diese Kerninflation hält an und wird hauptsächlich getrieben durch Lohndruck. Das ist die
+                    wirtschaftspolitische Realität.</p>
+                <p klasse="J">Was hat die Geldpolitik in der Vergangenheit getan? Die Geldpolitik hat in diesen Situationen die Zinsen erhöht. Damit ist die Konjunktur
+                    runtergegangen. Das hat zu Arbeitslosigkeit geführt – ein Übel, das benötigt wurde, damit die Nachfrage runtergeht. Dieses Mittel der Geldpolitik haben wir in
+                    dieser sehr positiven und wünschenswerten Arbeitsmarktsituation nicht mehr, und deswegen muss der Staat in dieser Situation unterstützen. Der Staat muss
+                    ebenfalls inflationsbremsend auftreten, sonst werden wir dieses Ziel von höheren Löhnen in Deutschland nicht erreichen, weil die Löhne von der Inflation einfach
+                    aufgefressen werden, meine sehr geehrten Damen und Herren!</p>
+                <kommentar>(Beifall bei der CDU/CSU)</kommentar>
+                <p klasse="J">Vor diesem Hintergrund können wir zwei Dinge tun: solide Fiskalpolitik und Staatspolitik, die zum einen das Angebot unterstützt und zum anderen nicht
+                    in falscher Art und Weise in die Lohnpreisbindung einsteigt. Wir müssen also schauen, dass wir den Unternehmen ihre Arbeitsfelder deregulieren und es möglich
+                    machen, dass sie mehr Produkte herstellen können, damit mehr im Supermarkt ist, damit es günstiger wird. Und wir müssen schauen, dass wir keine falschen Anreize
+                    in der Lohnpolitik schaffen. Ein positives Beispiel seitens der Bundesregierung: Die Einmalzahlungen sind an der Stelle absolut richtig gewesen. Was aber nicht
+                    richtig ist, ist eine Koppelung des Mindestlohns an den Median, weil das eine inflationstreibende Maßnahme ist, und wenn wir am Ende weniger davon haben und
+                    weil die Löhne nur höher sind, hilft das niemandem.</p>
+                <kommentar>(Beifall bei der CDU/CSU)</kommentar>
+                <p klasse="J">Am Ende dieser Rede, Herr Teutrine, komme ich noch mal ganz kurz zu Ihnen. Es braucht schon wirklich Chuzpe, sich hierhinzustellen, nachdem man selbst
+                    gegen die Grundprinzipien – Herr Teutrine, hören Sie doch einfach mal zu – der sozialen Marktwirtschaft verstoßen hat, indem man den politisch festgelegten
+                    Mindestlohn in Deutschland eingeführt und damit diesen Überbietungswettbewerb von links außen angefacht hat, und Ursula von der Leyen als die Kaiserin von
+                    Europa darzustellen, –</p>
+                <name>Vizepräsidentin Yvonne Magwas:</name>
+                <p klasse="J_1">Kommen Sie bitte zum Schluss.</p>
+                <p klasse="redner">
+        <redner id="11005159">
+            <name>
+                <vorname>Maximilian</vorname>
+                <nachname>Mörseburg</nachname>
+                <fraktion>CDU/CSU</fraktion>
+            </name>
+        </redner>Maximilian
+                    Mörseburg (CDU/CSU):</p>
+                <p klasse="J_1">– die mit einer Europa-Ampelmehrheit unter Führung von Macron, oft auch mit Ihren Stimmen von der FDP-Fraktion, viele Dinge vom Europaparlament
+                    vorgelegt bekommt.</p>
+                <kommentar>(Beifall bei der CDU/CSU)</kommentar>
+                <name>Vizepräsidentin Yvonne Magwas:</name>
+                <p klasse="J_1">Herr Mörseburg, letzter Satz, bitte.</p>
+                <p klasse="redner">
+        <redner id="11005159">
+            <name>
+                <vorname>Maximilian</vorname>
+                <nachname>Mörseburg</nachname>
+                <fraktion>CDU/CSU</fraktion>
+            </name>
+        </redner>Maximilian
+                    Mörseburg (CDU/CSU):</p>
+                <p klasse="J_1">Das ist einfach nicht die Realität. Bevor Sie so eine Rede halten, überlegen Sie sich einfach, was Sie da sagen.</p>
+                <p klasse="J">Vielen Dank.</p>
+                <kommentar>(Beifall bei der CDU/CSU)</kommentar>
+                <name>Vizepräsidentin Yvonne Magwas:</name>
+                <p klasse="J_1">Und für die SPD-Fraktion hat das Wort Michael Gerdes.</p>
+                <kommentar>(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+            </rede>

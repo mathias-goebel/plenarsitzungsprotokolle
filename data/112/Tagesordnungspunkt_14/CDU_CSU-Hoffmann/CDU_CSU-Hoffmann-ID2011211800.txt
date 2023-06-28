@@ -1,14 +1,26 @@
-Sehr geehrte Frau Präsidentin! Geschätzte Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Der Fall in Castrop-Rauxel dieses Jahr im Januar muss uns alle besorgen. Zwei Iraner sind am 7. Januar 2023 festgenommen worden, 25 und 32 Jahre alt, beide Anhänger des „Islamischen Staates“. Sie hatten einen Giftstoffanschlag geplant. Auf die Schliche ist man ihnen über die Kommunikation gekommen, weil sie sich auf Telegram über die Frage der Beschaffung von Rizin und Eisenpulver ausgetauscht hatten. Natürlich ist das ein großer Erfolg unserer Sicherheitsarchitektur und auch unserer Dienste. Es zeigt aber gleichzeitig auch, wie verwundbar unsere offene und freie Gesellschaft ist. Wenn wir diesen Fall aufarbeiten, müssen wir allein deshalb die Frage stellen: Gibt es Lehren, die wir daraus ziehen sollten? Da gibt es zwei Aspekte, über die man natürlich reden muss:
-Zum einen: Es wurde mehrfach versucht, die IP-Adressen zuzuordnen. Es gehört zur Wahrheit dazu, dass es nur gelungen ist, nach sechseinhalb Tagen die IP-Adresse zuzuordnen, weil einer der beiden einen Telekommunikationsanbieter gewählt hat, der zufälligerweise sieben Tage speichert.
+Sehr geehrte Frau Präsidentin! Geschätzte Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Der Fall in Castrop-Rauxel dieses Jahr im
+                    Januar muss uns alle besorgen. Zwei Iraner sind am 7. Januar 2023 festgenommen worden, 25 und 32 Jahre alt, beide Anhänger des „Islamischen Staates“. Sie hatten
+                    einen Giftstoffanschlag geplant. Auf die Schliche ist man ihnen über die Kommunikation gekommen, weil sie sich auf Telegram über die Frage der Beschaffung von
+                    Rizin und Eisenpulver ausgetauscht hatten. Natürlich ist das ein großer Erfolg unserer Sicherheitsarchitektur und auch unserer Dienste. Es zeigt aber
+                    gleichzeitig auch, wie verwundbar unsere offene und freie Gesellschaft ist. Wenn wir diesen Fall aufarbeiten, müssen wir allein deshalb die Frage stellen: Gibt
+                    es Lehren, die wir daraus ziehen sollten? Da gibt es zwei Aspekte, über die man natürlich reden muss:
+Zum einen: Es wurde mehrfach versucht, die IP-Adressen zuzuordnen. Es gehört zur Wahrheit dazu, dass es nur gelungen ist, nach sechseinhalb Tagen die
+                    IP-Adresse zuzuordnen, weil einer der beiden einen Telekommunikationsanbieter gewählt hat, der zufälligerweise sieben Tage speichert.
 Deswegen steht die berechtigte Frage im Raum: Wenn das ein Anbieter gewesen wäre, der nur vier Tage speichert,
 hätte dieser furchtbare Anschlag dann unter Umständen stattfinden können? Diese Frage ist deshalb berechtigt.
-Der zweite Punkt ist, dass wir wieder nur aufklären konnten, weil wir einen Hinweis von einem ausländischen Dienst bekommen haben. Wenn ich das jetzt weiterstricke und frage: „Welche Konsequenzen ziehen wir daraus?“
-– ich komme gleich dazu –, dann muss man sagen: Wir brauchen selbstverständlich eine Vorgabe für eine verbindliche IP-Adressen-Speicherung, um es nicht dem Zufall zu überlassen.
-Es ist falsch, wenn hier der Eindruck erweckt wird, dass das europarechtlich und verfassungsgemäß nicht möglich wäre. Wenn man das EuGH-Urteil vom September 2022 liest, dann weiß man, dass das zum Schutz der nationalen Sicherheit, zur Bekämpfung schwerer Kriminalität und zur Bekämpfung einer Bedrohung der öffentlichen Sicherheit sehr wohl zulässig ist.
-Und ich wundere mich über die Zwischenrufe; das will ich jetzt auch mal in einer Randbemerkung sagen. Ich habe mich vorhin in Bezug auf die FDP gewundert, dass Sie tatsächlich Ihrem Justizminister Heiko Buschmann
+Der zweite Punkt ist, dass wir wieder nur aufklären konnten, weil wir einen Hinweis von einem ausländischen Dienst bekommen haben. Wenn ich das jetzt
+                    weiterstricke und frage: „Welche Konsequenzen ziehen wir daraus?“
+– ich komme gleich dazu –, dann muss man sagen: Wir brauchen selbstverständlich eine Vorgabe für eine verbindliche IP-Adressen-Speicherung, um es
+                    nicht dem Zufall zu überlassen.
+Es ist falsch, wenn hier der Eindruck erweckt wird, dass das europarechtlich und verfassungsgemäß nicht möglich wäre. Wenn man das EuGH-Urteil vom
+                    September 2022 liest, dann weiß man, dass das zum Schutz der nationalen Sicherheit, zur Bekämpfung schwerer Kriminalität und zur Bekämpfung einer Bedrohung der
+                    öffentlichen Sicherheit sehr wohl zulässig ist.
+Und ich wundere mich über die Zwischenrufe; das will ich jetzt auch mal in einer Randbemerkung sagen. Ich habe mich vorhin in Bezug auf die FDP
+                    gewundert, dass Sie tatsächlich Ihrem Justizminister Heiko Buschmann
 für seine hartleibige Haltung beim Thema IP-Adressen-Speicherung applaudieren,
 und auch, Herr Kollege Höferlin, über Ihr überhebliches Vom-Tisch-Wischen dieser Thematik.
-Es gibt ja noch einen anderen Sektor, wo das ein wirklich wirksames und dringend erforderliches Instrument ist, nämlich bei der Bekämpfung von Kinderpornografie.
+Es gibt ja noch einen anderen Sektor, wo das ein wirklich wirksames und dringend erforderliches Instrument ist, nämlich bei der Bekämpfung von
+                    Kinderpornografie.
 Ich nenne Ihnen mal die Zahlen:
 Im Jahr 2022 konnte Hinweisen zu 5 614 Fällen von Kinderpornografie nicht nachgegangen werden, weil die IP-Adresse nicht zurückzuverfolgen war.
 Das ist kein Grund zum Applaudieren. Ich hätte mir gewünscht, dass wir sachlicher darüber reden können.

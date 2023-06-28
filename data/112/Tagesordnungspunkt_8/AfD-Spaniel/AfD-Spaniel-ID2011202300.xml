@@ -1,56 +1,71 @@
 <rede id="ID2011202300">
-				<p klasse="redner">
-					<redner id="11004899">
-						<name>
-							<titel>Dr.</titel>
-							<vorname>Dirk</vorname>
-							<nachname>Spaniel</nachname>
-							<fraktion>AfD</fraktion>
-						</name>
-					</redner>Dr. Dirk Spaniel (AfD):</p>
-				<p klasse="J_1">Vielen Dank. – Frau Präsidentin! Sehr geehrte Damen und Herren! Dass die Deutsche Bahn nicht funktioniert, das kann jeder einfach an einem Wochenende ausprobieren, wenn er mit der Deutschen Bahn fährt.</p>
-				<kommentar>(Detlef Müller [Chemnitz] [SPD]: Machen Sie doch gar nicht!)</kommentar>
-				<p klasse="J">Dass die Finanzen der Deutschen Bahn nicht funktionieren, das kann jeder, der in die Bilanzen der Deutschen Bahn guckt und hier im Bundestag die Genehmigung der ganzen Haushaltsmittel für die Deutsche Bahn beobachtet – auch einmal gerne über die Jahre –, nachvollziehen. Wir haben also ein massives Transparenzproblem bei der Deutschen Bahn.</p>
-				<kommentar>(Beifall bei der AfD)</kommentar>
-				<p klasse="J">Dann höre ich den Beitrag von Ihnen, Herr Donth, zu diesem Thema. Sie sagen, ein Grund dafür, dass die Deutsche Bahn so intransparent und auch so erfolglos, weil nicht leistungsorientiert, ist, ist, dass die Bahn eine AG ist. Jetzt wundere ich mich aber schon ein bisschen. Sie werfen ausgerechnet dem Kollegen von den Grünen, Herrn Gastel, vor, dass er hier kritisiert hat – zu Recht kritisiert hat –, dass die Deutsche Bahn eine AG ist. Das ist doch Ihr Werk. Das ist Ihr Werk, das Sie gemacht haben.</p>
-				<kommentar>(Beifall bei der AfD – Michael Donth [CDU/CSU]: Ich werfe ihm vor, dass er das nicht umsetzt! Das kann man ändern! Das ist der Vorwurf! Sie müssen richtig zuhören!)</kommentar>
-				<p klasse="O">Es ist ein politisches Meisterstück, wenn man die Regierung verlassen hat, die eigenen Fehler anderen Leuten zuzuschreiben. Toll! Das können Sie hervorragend. Ob Sie eine Bahn steuern können, das können wir alle selber sehen.</p>
-				<p klasse="J">Fakt ist: Sie haben hier einen Antrag gestellt, in dem einige richtige Kritikpunkte stehen. Das hat mein Kollege schon erläutert. Im Wesentlichen kommen Sie gar nicht auf den Punkt.</p>
-				<p klasse="J">Was hier der Fall ist, ist, dass wir alle getäuscht werden von den Machenschaften der SPD, die hier alles verschleiert. Sie wollen keine gemeinnützige GmbH; Sie wollen eine AG, damit der Vorstand intransparent arbeiten kann, wie er das auch heute schon in der Bahn tut.</p>
-				<kommentar>(Beifall bei der AfD)</kommentar>
-				<p klasse="J">Und wie funktioniert das? Das will ich Ihnen einmal kurz erklären. Der Vorstand genehmigt sich hier unendlich hohe Vorstandsgehälter. Wer genehmigt die? Der Aufsichtsrat. Wer sitzt im Aufsichtsrat? Ihre Kollegen von der Regierungskoalition.</p>
-				<kommentar>(Dorothee Martin [SPD]: Unsinn!)</kommentar>
-				<p klasse="O">Das Ganze wird auf der anderen Seite des Aufsichtsrats von den Arbeitnehmervertretern toleriert. Wer sitzt an der Spitze der Arbeitnehmervertreter? Ihr Ex-Kollege Burkert.</p>
-				<p klasse="J">Das ist ein Kartell, ein Kartell der raffenden Hände. So sieht es nämlich aus!</p>
-				<kommentar>(Beifall bei der AfD)</kommentar>
-				<p klasse="O">Und das müssen wir durch eine GmbH durchbrechen. Wir müssen Transparenz in diese ganze Konstruktion hineinbringen, –</p>
-				<name>Vizepräsidentin Katrin Göring-Eckardt:</name>
-				<p klasse="J_1">Herr Kollege.</p>
-				<p klasse="redner">
-					<redner id="11004899">
-						<name>
-							<titel>Dr.</titel>
-							<vorname>Dirk</vorname>
-							<nachname>Spaniel</nachname>
-							<fraktion>AfD</fraktion>
-						</name>
-					</redner>Dr. Dirk Spaniel (AfD):</p>
-				<p klasse="J_1">– die im Wesentlichen von der SPD geprägt ist.</p>
-				<name>Vizepräsidentin Katrin Göring-Eckardt:</name>
-				<p klasse="J_1">Herr Kollege.</p>
-				<p klasse="redner">
-					<redner id="11004899">
-						<name>
-							<titel>Dr.</titel>
-							<vorname>Dirk</vorname>
-							<nachname>Spaniel</nachname>
-							<fraktion>AfD</fraktion>
-						</name>
-					</redner>Dr. Dirk Spaniel (AfD):</p>
-				<p klasse="J_1">Das sollten wir hier im Bundestag einmal angehen.</p>
-				<p klasse="J">Vielen Dank, meine Damen und Herren.</p>
-				<kommentar>(Beifall bei der AfD – Detlef Müller [Chemnitz] [SPD]: Blutdrucksenker!)</kommentar>
-				<name>Vizepräsidentin Katrin Göring-Eckardt:</name>
-				<p klasse="J_1">Für Bündnis 90/Die Grünen hat das Wort die Kollegin Dr. Paula Piechotta.</p>
-				<kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der FDP)</kommentar>
-			</rede>
+                <p klasse="redner">
+        <redner id="11004899">
+            <name>
+                <titel>Dr.</titel>
+                <vorname>Dirk</vorname>
+                <nachname>Spaniel</nachname>
+                <fraktion>AfD</fraktion>
+            </name>
+        </redner>Dr. Dirk
+                    Spaniel (AfD):</p>
+                <p klasse="J_1">Vielen Dank. – Frau Präsidentin! Sehr geehrte Damen und Herren! Dass die Deutsche Bahn nicht funktioniert, das kann jeder einfach an einem
+                    Wochenende ausprobieren, wenn er mit der Deutschen Bahn fährt.</p>
+                <kommentar>(Detlef Müller [Chemnitz] [SPD]: Machen Sie doch gar nicht!)</kommentar>
+                <p klasse="J">Dass die Finanzen der Deutschen Bahn nicht funktionieren, das kann jeder, der in die Bilanzen der Deutschen Bahn guckt und hier im Bundestag die
+                    Genehmigung der ganzen Haushaltsmittel für die Deutsche Bahn beobachtet – auch einmal gerne über die Jahre –, nachvollziehen. Wir haben also ein massives
+                    Transparenzproblem bei der Deutschen Bahn.</p>
+                <kommentar>(Beifall bei der AfD)</kommentar>
+                <p klasse="J">Dann höre ich den Beitrag von Ihnen, Herr Donth, zu diesem Thema. Sie sagen, ein Grund dafür, dass die Deutsche Bahn so intransparent und auch so
+                    erfolglos, weil nicht leistungsorientiert, ist, ist, dass die Bahn eine AG ist. Jetzt wundere ich mich aber schon ein bisschen. Sie werfen ausgerechnet dem
+                    Kollegen von den Grünen, Herrn Gastel, vor, dass er hier kritisiert hat – zu Recht kritisiert hat –, dass die Deutsche Bahn eine AG ist. Das ist doch Ihr Werk.
+                    Das ist Ihr Werk, das Sie gemacht haben.</p>
+                <kommentar>(Beifall bei der AfD – Michael Donth [CDU/CSU]: Ich werfe ihm vor, dass er das nicht umsetzt! Das kann man ändern! Das ist der Vorwurf! Sie müssen
+                    richtig zuhören!)</kommentar>
+                <p klasse="O">Es ist ein politisches Meisterstück, wenn man die Regierung verlassen hat, die eigenen Fehler anderen Leuten zuzuschreiben. Toll! Das können Sie
+                    hervorragend. Ob Sie eine Bahn steuern können, das können wir alle selber sehen.</p>
+                <p klasse="J">Fakt ist: Sie haben hier einen Antrag gestellt, in dem einige richtige Kritikpunkte stehen. Das hat mein Kollege schon erläutert. Im Wesentlichen
+                    kommen Sie gar nicht auf den Punkt.</p>
+                <p klasse="J">Was hier der Fall ist, ist, dass wir alle getäuscht werden von den Machenschaften der SPD, die hier alles verschleiert. Sie wollen keine gemeinnützige
+                    GmbH; Sie wollen eine AG, damit der Vorstand intransparent arbeiten kann, wie er das auch heute schon in der Bahn tut.</p>
+                <kommentar>(Beifall bei der AfD)</kommentar>
+                <p klasse="J">Und wie funktioniert das? Das will ich Ihnen einmal kurz erklären. Der Vorstand genehmigt sich hier unendlich hohe Vorstandsgehälter. Wer genehmigt
+                    die? Der Aufsichtsrat. Wer sitzt im Aufsichtsrat? Ihre Kollegen von der Regierungskoalition.</p>
+                <kommentar>(Dorothee Martin [SPD]: Unsinn!)</kommentar>
+                <p klasse="O">Das Ganze wird auf der anderen Seite des Aufsichtsrats von den Arbeitnehmervertretern toleriert. Wer sitzt an der Spitze der Arbeitnehmervertreter?
+                    Ihr Ex-Kollege Burkert.</p>
+                <p klasse="J">Das ist ein Kartell, ein Kartell der raffenden Hände. So sieht es nämlich aus!</p>
+                <kommentar>(Beifall bei der AfD)</kommentar>
+                <p klasse="O">Und das müssen wir durch eine GmbH durchbrechen. Wir müssen Transparenz in diese ganze Konstruktion hineinbringen, –</p>
+                <name>Vizepräsidentin Katrin Göring-Eckardt:</name>
+                <p klasse="J_1">Herr Kollege.</p>
+                <p klasse="redner">
+        <redner id="11004899">
+            <name>
+                <titel>Dr.</titel>
+                <vorname>Dirk</vorname>
+                <nachname>Spaniel</nachname>
+                <fraktion>AfD</fraktion>
+            </name>
+        </redner>Dr. Dirk
+                    Spaniel (AfD):</p>
+                <p klasse="J_1">– die im Wesentlichen von der SPD geprägt ist.</p>
+                <name>Vizepräsidentin Katrin Göring-Eckardt:</name>
+                <p klasse="J_1">Herr Kollege.</p>
+                <p klasse="redner">
+        <redner id="11004899">
+            <name>
+                <titel>Dr.</titel>
+                <vorname>Dirk</vorname>
+                <nachname>Spaniel</nachname>
+                <fraktion>AfD</fraktion>
+            </name>
+        </redner>Dr. Dirk
+                    Spaniel (AfD):</p>
+                <p klasse="J_1">Das sollten wir hier im Bundestag einmal angehen.</p>
+                <p klasse="J">Vielen Dank, meine Damen und Herren.</p>
+                <kommentar>(Beifall bei der AfD – Detlef Müller [Chemnitz] [SPD]: Blutdrucksenker!)</kommentar>
+                <name>Vizepräsidentin Katrin Göring-Eckardt:</name>
+                <p klasse="J_1">Für Bündnis 90/Die Grünen hat das Wort die Kollegin Dr. Paula Piechotta.</p>
+                <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der FDP)</kommentar>
+            </rede>
