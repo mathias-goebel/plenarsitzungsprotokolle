@@ -1,30 +1,52 @@
 <rede id="ID2011210100">
-				<p klasse="redner">
-					<redner id="11003212">
-						<name>
-							<vorname>Claudia</vorname>
-							<nachname>Roth</nachname>
-							<rolle>
-								<rolle_lang>Staatsministerin beim Bundeskanzler</rolle_lang>
-								<rolle_kurz>Staatsministerin BK</rolle_kurz>
-							</rolle>
-						</name>
-					</redner>Claudia Roth, Staatsministerin beim Bundeskanzler:</p>
-				<p klasse="J_1">Frau Präsidentin! Liebe Kolleginnen und Kollegen!</p>
-				<p klasse="Z">Er empfing den Tod aufrecht und war sofort tot. Seine Haltung hat das ganze Gericht und uns alle zutiefst beeindruckt. Er starb entsprechend seiner Überzeugung.</p>
-				<p klasse="O">Diese Zeilen schrieb der Pflichtverteidiger von Wilhelm Kusserow an Wilhelms Vater, nachdem dessen Sohn im April 1940 wegen Wehrdienstverweigerung vom Kriegsgericht verurteilt und erschossen wurde. Er konnte, er wollte wegen seines Glaubens nicht Teil dieses Krieges sein.</p>
-				<p klasse="J">Die gesamte Familie Kusserow wurde schon seit 1933 wegen ihres Glaubens verfolgt. Acht Familienmitglieder litten jahrelang in Gefängnissen oder Konzentrationslagern; die drei Jüngsten wurden in Erziehungsheime verschleppt. Im März 1942 wurde Wilhelms Bruder Wolfgang wegen Wehrdienstverweigerung in Brandenburg enthauptet. Sein Bruder Karl-Heinz starb 1946 an den Folgen der Haft in den Konzentrationslagern Sachsenhausen und Dachau. Die Kusserows waren Zeugen Jehovas. Sie wurden wegen ihrer Religion verfolgt, drangsaliert, eingesperrt, ermordet.</p>
-				<p klasse="J">Es gibt sehr viele Geschichten wie die ihre. Aber wir kennen sie nicht, weil sie nicht oder nur selten erzählt wurden. Wer von uns weiß vom glaubensbedingten Widerstand der Zeugen Jehovas, die sich den Nationalsozialisten mutig entgegengestellt haben, die mit offenen Briefen, mit Flugblättern konkret die menschenverachtende Politik anprangerten, die den Arm unten ließen, als fast alle ihn begeistert zum Hitlergruß in den Himmel rissen? Wer von uns kennt die Berichte von Mithäftlingen über die Zeugen Jehovas, die sich in den Konzentrationslagern mit den anderen Gefangenen solidarisierten, ihnen halfen?</p>
-				<p klasse="J">Mir ist ein Bericht der kürzlich verstorbenen Sintezza Zilli Schmidt aus dem KZ Ravensbrück in Erinnerung – ich zitiere –:</p>
-				<p klasse="Z">Ich habe keine Ahnung, wie sie das gemacht haben: Kuchen aus Brot. Aber sie haben es jedenfalls gemacht. Die haben alles zusammengelegt, was sie hatten – und so wurde es wie ein Kuchen. Und den haben sie mit mir geteilt. Das waren für mich die wertvollsten Menschen, die Zeugen Jehovas mit ihrem Glauben.</p>
-				<p klasse="J">Ich hoffe sehr, dass diese Geschichten nun erzählt werden, dass den Opfern ein Name gegeben wird, dass von ihrem Mut und ihrer Solidarität mit anderen Verfolgten berichtet wird, dass sie keine vergessenen Opfer des Nationalsozialismus mehr sein werden. Das wollen wir zeigen mit dem Mahnmal für die verfolgten und ermordeten Zeugen Jehovas.</p>
-				<kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der FDP sowie bei Abgeordneten der CDU/CSU und der Abg. Petra Pau [DIE LINKE])</kommentar>
-				<p klasse="O">Wir wollen zeigen, dass wir um die Verbrechen an ihnen wissen, dass wir an die Opfer denken, an sie erinnern, dass wir sie nie wieder vergessen werden.</p>
-				<p klasse="J">Die Gedenkskulptur wird ein würdevolles Zeichen sein, am Goldfischteich, dem historischen Ort der Verfolgung im Berliner Tiergarten; da bin ich mir sehr, sehr sicher. Wir setzen damit aber keinen erinnerungspolitischen Schlussstein, sondern ein Fundament – ein Fundament für eine weitere Aufarbeitung der Geschichte und für die Entwicklung von neuen, von modernen Formen der Erinnerung, um die öffentliche Anerkennung der im Nationalsozialismus verfolgten und ermordeten Zeugen Jehovas in unserer Gesellschaft voranzubringen.</p>
-				<p klasse="J">Ich danke den Kolleginnen und Kollegen im Kulturausschuss von ganzem Herzen, dass sie den Antrag zur Errichtung des Mahnmals in so großer demokratischer Einheit beschlossen haben und sie damit die Vorarbeit, die in meinem Haus stattgefunden hat, unterstützen. Ich möchte auch Uwe Neumärker und der Stiftung „Denkmal für die ermordeten Juden Europas“ für die fachkundige und engagierte Begleitung des Vorhabens danken. Das war und ist ganz wichtig für das weitere Gelingen.</p>
-				<p klasse="J">Jetzt ist es an uns, nicht nur ein Mahnmal zu errichten, sondern auch aktiv zu erinnern. Es ist an uns, die Geschichten der Zeugen Jehovas, wie die der Familie Kusserow, weiterzutragen und dafür zu sorgen, dass daraus gelernt wird, dass nicht vergessen wird. Vergessen tötet.</p>
-				<kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD, der CDU/CSU, der FDP und der LINKEN)</kommentar>
-				<name>Vizepräsidentin Aydan Özoğuz:</name>
-				<p klasse="J_1">Nächste Rednerin ist Annette Widmann-Mauz für die CDU/CSU-Fraktion.</p>
-				<kommentar>(Beifall bei der CDU/CSU)</kommentar>
-			</rede>
+                <p klasse="redner">
+        <redner id="11003212">
+            <name>
+                <vorname>Claudia</vorname>
+                <nachname>Roth</nachname>
+                <rolle>
+                    <rolle_lang>Staatsministerin beim
+                                    Bundeskanzler</rolle_lang>
+                    <rolle_kurz>Staatsministerin BK</rolle_kurz>
+                </rolle>
+            </name>
+        </redner>Claudia Roth, Staatsministerin beim
+                    Bundeskanzler:</p>
+                <p klasse="J_1">Frau Präsidentin! Liebe Kolleginnen und Kollegen!</p>
+                <p klasse="Z">Er empfing den Tod aufrecht und war sofort tot. Seine Haltung hat das ganze Gericht und uns alle zutiefst beeindruckt. Er starb entsprechend seiner
+                    Überzeugung.</p>
+                <p klasse="O">Diese Zeilen schrieb der Pflichtverteidiger von Wilhelm Kusserow an Wilhelms Vater, nachdem dessen Sohn im April 1940 wegen Wehrdienstverweigerung vom
+                    Kriegsgericht verurteilt und erschossen wurde. Er konnte, er wollte wegen seines Glaubens nicht Teil dieses Krieges sein.</p>
+                <p klasse="J">Die gesamte Familie Kusserow wurde schon seit 1933 wegen ihres Glaubens verfolgt. Acht Familienmitglieder litten jahrelang in Gefängnissen oder
+                    Konzentrationslagern; die drei Jüngsten wurden in Erziehungsheime verschleppt. Im März 1942 wurde Wilhelms Bruder Wolfgang wegen Wehrdienstverweigerung in
+                    Brandenburg enthauptet. Sein Bruder Karl-Heinz starb 1946 an den Folgen der Haft in den Konzentrationslagern Sachsenhausen und Dachau. Die Kusserows waren
+                    Zeugen Jehovas. Sie wurden wegen ihrer Religion verfolgt, drangsaliert, eingesperrt, ermordet.</p>
+                <p klasse="J">Es gibt sehr viele Geschichten wie die ihre. Aber wir kennen sie nicht, weil sie nicht oder nur selten erzählt wurden. Wer von uns weiß vom
+                    glaubensbedingten Widerstand der Zeugen Jehovas, die sich den Nationalsozialisten mutig entgegengestellt haben, die mit offenen Briefen, mit Flugblättern
+                    konkret die menschenverachtende Politik anprangerten, die den Arm unten ließen, als fast alle ihn begeistert zum Hitlergruß in den Himmel rissen? Wer von uns
+                    kennt die Berichte von Mithäftlingen über die Zeugen Jehovas, die sich in den Konzentrationslagern mit den anderen Gefangenen solidarisierten, ihnen halfen?</p>
+                <p klasse="J">Mir ist ein Bericht der kürzlich verstorbenen Sintezza Zilli Schmidt aus dem KZ Ravensbrück in Erinnerung – ich zitiere –:</p>
+                <p klasse="Z">Ich habe keine Ahnung, wie sie das gemacht haben: Kuchen aus Brot. Aber sie haben es jedenfalls gemacht. Die haben alles zusammengelegt, was sie
+                    hatten – und so wurde es wie ein Kuchen. Und den haben sie mit mir geteilt. Das waren für mich die wertvollsten Menschen, die Zeugen Jehovas mit ihrem
+                    Glauben.</p>
+                <p klasse="J">Ich hoffe sehr, dass diese Geschichten nun erzählt werden, dass den Opfern ein Name gegeben wird, dass von ihrem Mut und ihrer Solidarität mit anderen
+                    Verfolgten berichtet wird, dass sie keine vergessenen Opfer des Nationalsozialismus mehr sein werden. Das wollen wir zeigen mit dem Mahnmal für die verfolgten
+                    und ermordeten Zeugen Jehovas.</p>
+                <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der FDP sowie bei Abgeordneten der CDU/CSU und der Abg. Petra Pau [DIE LINKE])</kommentar>
+                <p klasse="O">Wir wollen zeigen, dass wir um die Verbrechen an ihnen wissen, dass wir an die Opfer denken, an sie erinnern, dass wir sie nie wieder vergessen
+                    werden.</p>
+                <p klasse="J">Die Gedenkskulptur wird ein würdevolles Zeichen sein, am Goldfischteich, dem historischen Ort der Verfolgung im Berliner Tiergarten; da bin ich mir
+                    sehr, sehr sicher. Wir setzen damit aber keinen erinnerungspolitischen Schlussstein, sondern ein Fundament – ein Fundament für eine weitere Aufarbeitung der
+                    Geschichte und für die Entwicklung von neuen, von modernen Formen der Erinnerung, um die öffentliche Anerkennung der im Nationalsozialismus verfolgten und
+                    ermordeten Zeugen Jehovas in unserer Gesellschaft voranzubringen.</p>
+                <p klasse="J">Ich danke den Kolleginnen und Kollegen im Kulturausschuss von ganzem Herzen, dass sie den Antrag zur Errichtung des Mahnmals in so großer
+                    demokratischer Einheit beschlossen haben und sie damit die Vorarbeit, die in meinem Haus stattgefunden hat, unterstützen. Ich möchte auch Uwe Neumärker und der
+                    Stiftung „Denkmal für die ermordeten Juden Europas“ für die fachkundige und engagierte Begleitung des Vorhabens danken. Das war und ist ganz wichtig für das
+                    weitere Gelingen.</p>
+                <p klasse="J">Jetzt ist es an uns, nicht nur ein Mahnmal zu errichten, sondern auch aktiv zu erinnern. Es ist an uns, die Geschichten der Zeugen Jehovas, wie die
+                    der Familie Kusserow, weiterzutragen und dafür zu sorgen, dass daraus gelernt wird, dass nicht vergessen wird. Vergessen tötet.</p>
+                <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD, der CDU/CSU, der FDP und der LINKEN)</kommentar>
+                <name>Vizepräsidentin Aydan Özoğuz:</name>
+                <p klasse="J_1">Nächste Rednerin ist Annette Widmann-Mauz für die CDU/CSU-Fraktion.</p>
+                <kommentar>(Beifall bei der CDU/CSU)</kommentar>
+            </rede>
