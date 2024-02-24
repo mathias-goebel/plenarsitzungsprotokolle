@@ -1,0 +1,28 @@
+<rede id="ID2015300600">
+                <p klasse="redner">
+        <a id="r6"/>
+        <redner id="11004097">
+            <name>
+                <vorname>Christian</vorname>
+                <nachname>Lindner</nachname>
+                <rolle>
+                    <rolle_lang>Bundesminister der Finanzen</rolle_lang>
+                    <rolle_kurz>Bundesminister BMF</rolle_kurz>
+                </rolle>
+            </name>
+        </redner>Christian Lindner, Bundesminister der Finanzen:</p>
+                <p klasse="J_1">Vielen Dank für Ihre Nachfrage, Frau Gräßle. – Ja.</p>
+                <kommentar>(Dr. Hendrik Hoppenstedt [CDU/CSU]: Das ist ja mal ein Wort!)</kommentar>
+                <p klasse="redner">
+        <redner id="11005069">
+            <name>
+                <titel>Dr.</titel>
+                <vorname>Ingeborg</vorname>
+                <nachname>Gräßle</nachname>
+                <fraktion>CDU/CSU</fraktion>
+            </name>
+        </redner>Dr. Ingeborg Gräßle (CDU/CSU):</p>
+                <p klasse="J_1">Danke schön.</p>
+                <name>Vizepräsidentin Katrin Göring-Eckardt:</name>
+                <p klasse="J_1">Johannes Schraps ist der nächste Fragende.</p>
+            </rede>
