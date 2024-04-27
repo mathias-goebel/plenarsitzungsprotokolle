@@ -1,0 +1,52 @@
+<rede id="ID2016609700">
+                <p klasse="redner">
+        <a id="r97"/>
+        <redner id="11005098">
+            <name>
+                <vorname>Anna</vorname>
+                <nachname>Kassautzki</nachname>
+                <fraktion>SPD</fraktion>
+            </name>
+        </redner>Anna Kassautzki (SPD):</p>
+                <p klasse="J_1">Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen der demokratischen Fraktionen! Sehr geehrte Damen und Herren! Wir sprechen heute auf Antrag der Unionsfraktion über internationale Digitalpolitik und damit über nichts anderes als: In welcher vernetzten, digitalisierten Welt wollen wir künftig leben? Wie können wir uns dort schützen und Abhängigkeiten reduzieren? Denn die digitale Welt ist nicht abgekoppelt von der analogen Welt; wir haben es auch hier mit Playern wie China, Russland oder dem Iran zu tun.</p>
+                <p klasse="J">Aber lassen Sie mich mit einer kleinen Geschichte beginnen, die ein echter Krimi ist. 29. März 2024: Ein Entwickler arbeitet an einer Open-Source-Datenbank, deren Quellcode für alle einsehbar und umsonst weiterverwendbar ist. Nun, diesem Entwickler fiel Ende März auf, dass ein Log-in länger dauerte als üblich; es handelte sich übrigens um Bruchteile einer Sekunde. Den meisten Menschen, mich eingenommen, wäre das wahrscheinlich nicht mal aufgefallen.</p>
+                <p klasse="J">Bei genauerem Hinsehen bemerkte er, dass im Hintergrund Schadsoftware nachgeladen wurde. Diese unterwandert einen Dienst, der sicheren Fernzugang zu Servern ermöglicht. Die Schadsoftware ist quasi eine Hintertür, die Angreifern Zugriff auf das gesamte System gibt. Unerwünschter Fernzugriff: Das ist ein IT-Albtraum.</p>
+                <p klasse="J">Und als ob das alleine nicht erschreckend genug ist: Die Einschleusung der Schadsoftware wurde anscheinend von langer Hand geplant. Die Angreifer sind dabei richtig geschickt vorgegangen: Über zwei Jahre hat ein User namens „Jia Tan“ für die betroffene Softwarekomponente zugearbeitet. Gleichzeitig übten andere Accounts Druck auf den Hauptentwickler aus, endlich mehr Verantwortung und Schreibrechte abzugeben – natürlich an „Jia Tan“ – und dessen neue Version mit der Schadsoftware endlich in die Updates einzubauen. – Über zwei Jahre Arbeit, um Schadsoftware in eine Basiskomponente einzubauen, macht niemand zum Spaß; so ein strukturelles und langes Vorgehen spricht für einen staatlichen Akteur.</p>
+                <p klasse="J">Wir können nicht sicher sein, woher „Jia Tan“ kommt. Der Name klingt eher chinesisch; aber die Änderungsvorschläge und Bearbeitungen kamen in klassischen Bürozeiten in der Moskauer Zeitzone, und an russischen Feiertagen wurde nicht gearbeitet, an chinesischen schon. Sowohl der Name „Jia Tan“ als auch die Arbeitszeiten könnten aber auch falsche Fährten sein; wir wissen es schlicht und ergreifend nicht.</p>
+                <p klasse="J">Wäre nicht einem einzelnen Entwickler aufgefallen, dass ein Log-in Sekundenbruchteile langsamer ist als üblich, wäre wahrscheinlich die infizierte Version in den Umlauf gekommen: auf Computern, Servern oder Routern, und zwar von Privatleuten, Regierungen, Organisationen, Unternehmen, Krankenhäusern, Stromversorgern, Schulen und Kommunalverwaltungen. Wir sind hier an einem gigantischen internationalen IT-Sicherheitsfiasko haarscharf vorbeigeschrammt.</p>
+                <p klasse="J">Ich habe eingangs gefragt, in welcher digitalen Welt wir leben wollen. Aktuell leben wir in einer Welt, in der weitverbreitete Komponenten – und wir reden hier über Millionen bis Milliarden von Geräten – immer noch von Entwicklern nach Feierabend, in ihrer Freizeit, ohne Bezahlung gewartet werden. Darauf basiert unser digitales Zusammenleben.</p>
+                <p klasse="J">Liebe Unionsfraktion, hier sind wir als Ampel längst dran; denn die Unterstützung von Open Source ist überragendes öffentliches Interesse. Mit dem Sovereign Tech Fund haben wir deswegen 2022 eine projektbezogene Förderung an den Start gebracht. Hier wird gezielt in Open-Source-Komponenten an kritischen Stellen investiert. Denn häufig sind diese Komponenten als Freizeitprojekt gestartet; aber je mehr sich darauf verlassen, desto mehr werden sie zur Stütze für andere digitale Produkte, und der Druck auf die Entwickler/-innen steigt.</p>
+                <p klasse="J">Der Sovereign Tech Fund verteilt deswegen Aufträge, um die Betreuung genau dieser digitalen Stützbalken sicherzustellen. Diese stützen nicht national, sondern überall auf der Welt.</p>
+                <kommentar>(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+                <p klasse="J">Mit dem ZenDiS, dem Zentrum für Digitale Souveränität, bringen wir die strukturelle Förderung durch Open-Source-Entwicklung für die öffentliche Verwaltung auf den Weg. Damit machen wir uns weniger abhängig von amerikanischen oder chinesischen Großkonzernen und schaffen die Lösungen, die unsere Verwaltung braucht, ohne dass jede Kommune selbst entwickeln muss.</p>
+                <kommentar>(Johannes Schraps [SPD]: Sehr gut!)</kommentar>
+                <p klasse="J">Die Autokratien dieser Welt haben entdeckt, dass es einfacher ist, die Stützbalken anzugreifen, als auf das ganze Haus zu schießen. Das gilt für Angriffe auf Software genauso wie für Desinformationskampagnen als Angriffe auf unser demokratisches Zusammenleben. Mit dem DSA und dem Digitale-Dienste-Gesetz gehen wir einen ersten Schritt; aufhören darf es da nicht.</p>
+                <p klasse="J">Und an alle Menschen da draußen, die an Open-Source-Komponenten arbeiten, –</p>
+                <name>Vizepräsident Wolfgang Kubicki:</name>
+                <p klasse="J_1">Frau Kollegin, auch Sie müssen zum Schluss kommen.</p>
+                <p klasse="redner">
+        <redner id="11005098">
+            <name>
+                <vorname>Anna</vorname>
+                <nachname>Kassautzki</nachname>
+                <fraktion>SPD</fraktion>
+            </name>
+        </redner>Anna Kassautzki (SPD):</p>
+                <p klasse="J_1">– insbesondere die, die das in ihrer Freizeit machen: Danke! Danke, dass ihr uns –</p>
+                <name>Vizepräsident Wolfgang Kubicki:</name>
+                <p klasse="J_1">Frau Kollegin, bitte.</p>
+                <p klasse="redner">
+        <redner id="11005098">
+            <name>
+                <vorname>Anna</vorname>
+                <nachname>Kassautzki</nachname>
+                <fraktion>SPD</fraktion>
+            </name>
+        </redner>Anna Kassautzki (SPD):</p>
+                <p klasse="J_1">– die digitalen Räume ermöglicht, in denen wir unterwegs sind. Wir stehen an eurer Seite. Gemeinsam können wir die Welt gerechter und damit sicherer machen.</p>
+                <p klasse="J">Herzlichen Dank.</p>
+                <kommentar>(Beifall bei der SPD sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN und der FDP)</kommentar>
+                <name>Vizepräsident Wolfgang Kubicki:</name>
+                <p klasse="J_1">Nächster Redner ist der Kollege Maik Außendorf, Bündnis 90/Die Grünen.</p>
+                <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD und des Abg. Maximilian Funke-Kaiser [FDP])</kommentar>
+            </rede>
